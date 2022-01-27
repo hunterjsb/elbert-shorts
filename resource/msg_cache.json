@@ -1,0 +1,1960 @@
+[
+    {
+        "id": "936330364224421918",
+        "type": 0,
+        "content": "INDO ripping GBR on watch",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "702618172729065515",
+            "username": "StockKing",
+            "avatar": "92bab3f40b8034595f6f892c6307ed4b",
+            "discriminator": "6951",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:42:35.008000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "INDO",
+            "GBR"
+        ]
+    },
+    {
+        "id": "936330363825975296",
+        "type": 0,
+        "content": "ISPC also looks like a good buy. If market goes down then it will be more cheaper.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "860260347524284486",
+            "username": "dpn123",
+            "avatar": "9d01f0df5e465c00e6932f568d396905",
+            "discriminator": "2709",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:42:34.913000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "ISPC"
+        ]
+    },
+    {
+        "id": "936330203712606249",
+        "type": 0,
+        "content": "That better?",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "591057598627840001",
+            "username": "kboiler",
+            "avatar": "fa82b035b496c4f8b2318012d3663d3f",
+            "discriminator": "4072",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:41:56.739000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936330154907668480",
+        "type": 0,
+        "content": "BBIG beep boop, buy.  Hype train.  YOLO.  Apes blah blah blah.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "591057598627840001",
+            "username": "kboiler",
+            "avatar": "fa82b035b496c4f8b2318012d3663d3f",
+            "discriminator": "4072",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:41:45.103000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "BBIG",
+            "YOLO"
+        ]
+    },
+    {
+        "id": "936329809380909147",
+        "type": 19,
+        "content": "Best time to buy",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "871906795273207840",
+            "username": "sno1992",
+            "avatar": "b6b95432495588fe492a1eb5fe04c857",
+            "discriminator": "3270",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "801008868149952563",
+                "username": "Kasia",
+                "avatar": "a3fff578501e4bc663c79d0154560609",
+                "discriminator": "0675",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:40:22.723000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936325140772438026"
+        },
+        "referenced_message": {
+            "id": "936325140772438026",
+            "type": 0,
+            "content": "lmao bbig looking so dead here",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "801008868149952563",
+                "username": "Kasia",
+                "avatar": "a3fff578501e4bc663c79d0154560609",
+                "discriminator": "0675",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:21:49.640000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "936329713985667072",
+        "type": 0,
+        "content": "Looks like WWR is finally toast. What a shitshow.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "751664520639807549",
+            "username": "ericontrarian",
+            "avatar": "53fa0e8f8bf65f72e877fa8f275aef3f",
+            "discriminator": "8856",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:39:59.979000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "WWR"
+        ]
+    },
+    {
+        "id": "936329419419689021",
+        "type": 0,
+        "content": "indo broke 6.30",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "803777902021443675",
+            "username": "OTCBurner",
+            "avatar": "d6e3413050576a73b0184214522cf3d6",
+            "discriminator": "3469",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:38:49.749000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936329220584517703",
+        "type": 0,
+        "content": "looking like its wants to go back to hod",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "803777902021443675",
+            "username": "OTCBurner",
+            "avatar": "d6e3413050576a73b0184214522cf3d6",
+            "discriminator": "3469",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:38:02.343000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936329167174258798",
+        "type": 0,
+        "content": "Indo retesting vwap",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "803777902021443675",
+            "username": "OTCBurner",
+            "avatar": "d6e3413050576a73b0184214522cf3d6",
+            "discriminator": "3469",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:37:49.609000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936328879696642149",
+        "type": 0,
+        "content": "If you're sitting out, have a gander at VPA. This is all you need https://discord.com/channels/428232997737594901/457979229603233803/480890371300130827",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "773294873422856202",
+            "username": "Lucy Van Pelt",
+            "avatar": "615b4513d7339c15da4564f61ac515bc",
+            "discriminator": "8020",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:36:41.069000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "VPA"
+        ]
+    },
+    {
+        "id": "936328863372419163",
+        "type": 19,
+        "content": "Good stuff",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "815798885288116224",
+            "username": "suitable_gains",
+            "avatar": "4fa1846889b06f7d2ac6d1afc8188ecc",
+            "discriminator": "9381",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "773294873422856202",
+                "username": "Lucy Van Pelt",
+                "avatar": "615b4513d7339c15da4564f61ac515bc",
+                "discriminator": "8020",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:36:37.177000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936328129885110303"
+        },
+        "referenced_message": {
+            "id": "936328129885110303",
+            "type": 0,
+            "content": "",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "773294873422856202",
+                "username": "Lucy Van Pelt",
+                "avatar": "615b4513d7339c15da4564f61ac515bc",
+                "discriminator": "8020",
+                "public_flags": 0
+            },
+            "attachments": [
+                {
+                    "id": "936328129595723836",
+                    "filename": "Thread_on_Finding_Entries.pdf",
+                    "size": 67519,
+                    "url": "https://cdn.discordapp.com/attachments/697135489484062762/936328129595723836/Thread_on_Finding_Entries.pdf",
+                    "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/936328129595723836/Thread_on_Finding_Entries.pdf",
+                    "content_type": "application/pdf"
+                }
+            ],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:33:42.300000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "936328519556952096",
+        "type": 0,
+        "content": "Where is the bbig hype bot!? Need some bullishness.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "334576132395630595",
+            "username": "vizzerdrix86",
+            "avatar": "a1bfe9687a12a47044a7a7408aafae22",
+            "discriminator": "6841",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:35:15.205000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936328420944646164",
+        "type": 19,
+        "content": "lol",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "796114024495972413",
+            "username": "Vinny Gambini (Tom Lee Fanboy)",
+            "avatar": "ebdab467dca0da1300e7d2c93879f2de",
+            "discriminator": "1693",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "773294873422856202",
+                "username": "Lucy Van Pelt",
+                "avatar": "615b4513d7339c15da4564f61ac515bc",
+                "discriminator": "8020",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:34:51.694000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936327665076539412"
+        },
+        "referenced_message": {
+            "id": "936327665076539412",
+            "type": 19,
+            "content": "<#714856464379805816>",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "773294873422856202",
+                "username": "Lucy Van Pelt",
+                "avatar": "615b4513d7339c15da4564f61ac515bc",
+                "discriminator": "8020",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "935546791057825852",
+                    "username": "Hollywood",
+                    "avatar": "e301b1e5421b7e0129f5bd8f100d96df",
+                    "discriminator": "2556",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:31:51.481000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "936327263136407623"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "936328129885110303",
+        "type": 0,
+        "content": "",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "773294873422856202",
+            "username": "Lucy Van Pelt",
+            "avatar": "615b4513d7339c15da4564f61ac515bc",
+            "discriminator": "8020",
+            "public_flags": 0
+        },
+        "attachments": [
+            {
+                "id": "936328129595723836",
+                "filename": "Thread_on_Finding_Entries.pdf",
+                "size": 67519,
+                "url": "https://cdn.discordapp.com/attachments/697135489484062762/936328129595723836/Thread_on_Finding_Entries.pdf",
+                "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/936328129595723836/Thread_on_Finding_Entries.pdf",
+                "content_type": "application/pdf"
+            }
+        ],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:33:42.300000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936328078530072646",
+        "type": 0,
+        "content": "Taking some meme stock lottos.  Sometimes pick up in shitty market days",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "767922221355499562",
+            "username": "alejandro55",
+            "avatar": "b3953a938c1c24baca1cd1659253958f",
+            "discriminator": "7976",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:33:30.056000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936327969385873530",
+        "type": 0,
+        "content": "SECO adding the dip",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "815798885288116224",
+            "username": "suitable_gains",
+            "avatar": "4fa1846889b06f7d2ac6d1afc8188ecc",
+            "discriminator": "9381",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:33:04.034000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "SECO"
+        ]
+    },
+    {
+        "id": "936327665076539412",
+        "type": 19,
+        "content": "<#714856464379805816>",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "773294873422856202",
+            "username": "Lucy Van Pelt",
+            "avatar": "615b4513d7339c15da4564f61ac515bc",
+            "discriminator": "8020",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "935546791057825852",
+                "username": "Hollywood",
+                "avatar": "e301b1e5421b7e0129f5bd8f100d96df",
+                "discriminator": "2556",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:31:51.481000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936327263136407623"
+        },
+        "referenced_message": {
+            "id": "936327263136407623",
+            "type": 0,
+            "content": "Anyone in BDRBF? Seems very inexpensive as the rich keep buying jets",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "935546791057825852",
+                "username": "Hollywood",
+                "avatar": "e301b1e5421b7e0129f5bd8f100d96df",
+                "discriminator": "2556",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:30:15.651000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "936327565205979226",
+        "type": 0,
+        "content": "Yeah I\u2019m def gonna be in and out of most trades after this. My long holds all down 40-50%",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723341420102156378",
+            "username": "ALI",
+            "avatar": "df1d8fe2a6ca7a8f1501c2e17c515f10",
+            "discriminator": "9395",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:31:27.670000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936327428115144714",
+        "type": 0,
+        "content": "Fun red day!",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "334576132395630595",
+            "username": "vizzerdrix86",
+            "avatar": "a1bfe9687a12a47044a7a7408aafae22",
+            "discriminator": "6841",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:30:54.985000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936327396448145428",
+        "type": 19,
+        "content": "No way, a guy in here telling us how he got out of everything just in time? Haven\u2019t see that before",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "892421163995783199",
+            "username": "Corcaigh88",
+            "avatar": "c7e648e4908be2d8f851335a2f3fce4c",
+            "discriminator": "8625",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "391934008071684096",
+                "username": "NixPix",
+                "avatar": "ea003c3228c6de87685497a768306d15",
+                "discriminator": "2820",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:30:47.435000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936327115383648286"
+        },
+        "referenced_message": {
+            "id": "936327115383648286",
+            "type": 0,
+            "content": "Hope you guys are staying safe out there, I'm personally fucking happy that I scaled out most of my swings in december, I would have suffered very big losses by now! Gotta sticks to YOUR plan - Rule Nr 1 in becoming a successful trader. Took me some years to fully realize!",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "391934008071684096",
+                "username": "NixPix",
+                "avatar": "ea003c3228c6de87685497a768306d15",
+                "discriminator": "2820",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:29:40.424000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\ude02"
+                },
+                "count": 1,
+                "me": false
+            }
+        ],
+        "tickers": []
+    },
+    {
+        "id": "936327361383788605",
+        "type": 0,
+        "content": "AMC finally doing something",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "779172798047584276",
+            "username": "JimmyNJ189",
+            "avatar": "569cb6584f9a22dc28fe839c03c87811",
+            "discriminator": "5996",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:30:39.075000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "AMC"
+        ]
+    },
+    {
+        "id": "936327270115717180",
+        "type": 0,
+        "content": "until small caps heat up, risk management and cutting losing plays early is key",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "773294873422856202",
+            "username": "Lucy Van Pelt",
+            "avatar": "615b4513d7339c15da4564f61ac515bc",
+            "discriminator": "8020",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:30:17.315000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936327263136407623",
+        "type": 0,
+        "content": "Anyone in BDRBF? Seems very inexpensive as the rich keep buying jets",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "935546791057825852",
+            "username": "Hollywood",
+            "avatar": "e301b1e5421b7e0129f5bd8f100d96df",
+            "discriminator": "2556",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:30:15.651000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "BDRBF"
+        ]
+    },
+    {
+        "id": "936327254856839179",
+        "type": 19,
+        "content": "It was a lucky guess. My confidence comes in waves. Was super confident in December and then I fell apart once momo got hard for bulls to trade. Kinda just roaming around with new shit, no plan, and no confidence",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "802188528942317600",
+            "username": "trader x trader",
+            "avatar": "fee4f6fc154bb4dff592e6d4be51d25c",
+            "discriminator": "2347",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "745127452510257223",
+                "username": "TheReal_Lebron",
+                "avatar": "bcc1c0f967b394412c06ded6daabadcf",
+                "discriminator": "2659",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:30:13.677000+00:00",
+        "edited_timestamp": "2022-01-27T18:31:15.764000+00:00",
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936326526251728977"
+        },
+        "referenced_message": {
+            "id": "936326526251728977",
+            "type": 19,
+            "content": "Damn, that was a snipe. That\u2019s my biggest downfall too. Not having confidence in myself. One day we\u2019ll learn.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "745127452510257223",
+                "username": "TheReal_Lebron",
+                "avatar": "bcc1c0f967b394412c06ded6daabadcf",
+                "discriminator": "2659",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "802188528942317600",
+                    "username": "trader x trader",
+                    "avatar": "fee4f6fc154bb4dff592e6d4be51d25c",
+                    "discriminator": "2347",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:27:19.964000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "936324696268476426"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "936327240155815977",
+        "type": 0,
+        "content": "I\u2019m gonna def stay cash after this. Cause I\u2019m literally stuck in my positions",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723341420102156378",
+            "username": "ALI",
+            "avatar": "df1d8fe2a6ca7a8f1501c2e17c515f10",
+            "discriminator": "9395",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:30:10.172000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936327240076103700",
+        "type": 0,
+        "content": "IMPP turning into a nice pick",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "680089523706789948",
+            "username": "Proecadguy",
+            "avatar": "0d7b3e61c6c8091591feb61fd4ee80e0",
+            "discriminator": "7529",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:30:10.153000+00:00",
+        "edited_timestamp": "2022-01-27T18:30:25.776000+00:00",
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "IMPP"
+        ]
+    },
+    {
+        "id": "936327158849216542",
+        "type": 0,
+        "content": "Yeah i\u2019m stuck bagholding as well gonna stay out for a while accumulate and wait for a bull run",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "339583041867350017",
+            "username": "Misael4404",
+            "avatar": "7cb47e644f9d3ec42e664b74561d373c",
+            "discriminator": "3063",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:29:50.787000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936327115383648286",
+        "type": 0,
+        "content": "Hope you guys are staying safe out there, I'm personally fucking happy that I scaled out most of my swings in december, I would have suffered very big losses by now! Gotta sticks to YOUR plan - Rule Nr 1 in becoming a successful trader. Took me some years to fully realize!",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "391934008071684096",
+            "username": "NixPix",
+            "avatar": "ea003c3228c6de87685497a768306d15",
+            "discriminator": "2820",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:29:40.424000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "YOUR"
+        ]
+    },
+    {
+        "id": "936327097188777995",
+        "type": 0,
+        "content": "Ouch, UONE back to where it crawled out from lol",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "492531574814801952",
+            "username": "Mr. Duckworth \ud83e\udd86",
+            "avatar": "5385e0d0d272e1b8653cc4e0a7d52bad",
+            "discriminator": "2335",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:29:36.086000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "UONE"
+        ]
+    },
+    {
+        "id": "936327015064277072",
+        "type": 19,
+        "content": "Small cap life",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "293487323557920768",
+            "username": "jonnyplank",
+            "avatar": "39e901901839c7d51c58aabacc4a54b2",
+            "discriminator": "8214",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "723341420102156378",
+                "username": "ALI",
+                "avatar": "df1d8fe2a6ca7a8f1501c2e17c515f10",
+                "discriminator": "9395",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:29:16.506000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936326963449196564"
+        },
+        "referenced_message": {
+            "id": "936326963449196564",
+            "type": 0,
+            "content": "F ME. Ispc and strn got my whole portfolio down by half",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "723341420102156378",
+                "username": "ALI",
+                "avatar": "df1d8fe2a6ca7a8f1501c2e17c515f10",
+                "discriminator": "9395",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:29:04.200000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "936326963449196564",
+        "type": 0,
+        "content": "F ME. Ispc and strn got my whole portfolio down by half",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723341420102156378",
+            "username": "ALI",
+            "avatar": "df1d8fe2a6ca7a8f1501c2e17c515f10",
+            "discriminator": "9395",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:29:04.200000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "ME"
+        ]
+    },
+    {
+        "id": "936326903449649162",
+        "type": 0,
+        "content": "SPRC Volatility **HALTED** at 13:28:39",
+        "channel_id": "697135489484062762",
+        "author": {
+            "bot": true,
+            "id": "714972260544544929",
+            "username": "Atlas Trading",
+            "avatar": "6d45f0399bb2fd0f28ae698bc265ffb5",
+            "discriminator": "0000"
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:28:49.895000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "webhook_id": "714972260544544929",
+        "tickers": [
+            "SPRC",
+            "HALTED"
+        ]
+    },
+    {
+        "id": "936326873636544622",
+        "type": 0,
+        "content": "My apologies.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "730076562258526269",
+            "username": "Rickflacco",
+            "avatar": "9005cb359edd1e0f1ea0944325e3b5cb",
+            "discriminator": "8605",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:28:42.787000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936326691385655326",
+        "type": 0,
+        "content": "focus on charts and price action please",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "773294873422856202",
+            "username": "Lucy Van Pelt",
+            "avatar": "615b4513d7339c15da4564f61ac515bc",
+            "discriminator": "8020",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:27:59.335000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "reactions": [
+            {
+                "emoji": {
+                    "id": "685107895121084424",
+                    "name": "this"
+                },
+                "count": 2,
+                "me": false
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 1,
+                "me": false
+            }
+        ],
+        "tickers": []
+    },
+    {
+        "id": "936326526251728977",
+        "type": 19,
+        "content": "Damn, that was a snipe. That\u2019s my biggest downfall too. Not having confidence in myself. One day we\u2019ll learn.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "745127452510257223",
+            "username": "TheReal_Lebron",
+            "avatar": "bcc1c0f967b394412c06ded6daabadcf",
+            "discriminator": "2659",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "802188528942317600",
+                "username": "trader x trader",
+                "avatar": "fee4f6fc154bb4dff592e6d4be51d25c",
+                "discriminator": "2347",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:27:19.964000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936324696268476426"
+        },
+        "referenced_message": {
+            "id": "936324696268476426",
+            "type": 19,
+            "content": "I didn\u2019t take it cuz no one replied lol... didn\u2019t have any confidence. I don\u2019t play options ever lol",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "802188528942317600",
+                "username": "trader x trader",
+                "avatar": "fee4f6fc154bb4dff592e6d4be51d25c",
+                "discriminator": "2347",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "745127452510257223",
+                    "username": "TheReal_Lebron",
+                    "avatar": "bcc1c0f967b394412c06ded6daabadcf",
+                    "discriminator": "2659",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:20:03.662000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "936321719709352046"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "936326237314506782",
+        "type": 19,
+        "content": "scary",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "730076562258526269",
+            "username": "Rickflacco",
+            "avatar": "9005cb359edd1e0f1ea0944325e3b5cb",
+            "discriminator": "8605",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "761282372565860372",
+                "username": "!\u015bt\u00e5r",
+                "avatar": "ddb7d9e8ff5217a5354f828cf105b8d2",
+                "discriminator": "7410",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:26:11.076000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936326038634512414"
+        },
+        "referenced_message": {
+            "id": "936326038634512414",
+            "type": 0,
+            "content": "Nahh 3000 share",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "761282372565860372",
+                "username": "!\u015bt\u00e5r",
+                "avatar": "ddb7d9e8ff5217a5354f828cf105b8d2",
+                "discriminator": "7410",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:25:23.707000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "936326165180870686",
+        "type": 19,
+        "content": "https://www.nbcnews.com/news/us-news/us-vaccine-mandate-freight-drivers-coming-canada-may-exacerbate-auto-s-rcna12649",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "515053481309110272",
+            "username": "luke \u03a8",
+            "avatar": "d7eb363ceb065fb0d16fb7abb6820eb3",
+            "discriminator": "0185",
+            "public_flags": 64
+        },
+        "attachments": [],
+        "embeds": [
+            {
+                "type": "article",
+                "url": "https://www.nbcnews.com/news/us-news/us-vaccine-mandate-freight-drivers-coming-canada-may-exacerbate-auto-s-rcna12649",
+                "title": "U.S. vaccine mandate on freight drivers coming from Canada may wors...",
+                "description": "A Covid-19 vaccination requirement that will bar unvaccinated drivers of freight trucks coming from Canada to deliver goods across the American border this",
+                "reference_id": "936326165180870686",
+                "provider": {
+                    "name": "NBC News"
+                },
+                "thumbnail": {
+                    "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-01/220118-canada-truck-driver-se-647p-d8549f.jpg",
+                    "proxy_url": "https://images-ext-2.discordapp.net/external/3ckYGC4FusTtGPbZNgeJtq-57Nlohaj-Q0UHnNifCjc/https/media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630%2Cf_auto%2Cq_auto%3Abest/rockcms/2022-01/220118-canada-truck-driver-se-647p-d8549f.jpg",
+                    "width": 1200,
+                    "height": 630
+                }
+            }
+        ],
+        "mentions": [
+            {
+                "id": "875132215380545558",
+                "username": "Gnarley",
+                "avatar": "958a11ed989cce3263bce46ed21cda5a",
+                "discriminator": "7773",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:25:53.878000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936325581241462814"
+        },
+        "referenced_message": {
+            "id": "936325581241462814",
+            "type": 19,
+            "content": "You think this is the presidents fault? You're placing blame on the wrong thing, It's covid, It's affected the entire global economy and it started  while the former president was in office. The economy nor covid was the fault of either president.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "875132215380545558",
+                "username": "Gnarley",
+                "avatar": "958a11ed989cce3263bce46ed21cda5a",
+                "discriminator": "7773",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "167121331316457472",
+                    "username": "DustyCrevice",
+                    "avatar": "38000eeb0f9248e7249f3fe6ab1b13c9",
+                    "discriminator": "5524",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:23:34.656000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "936324003600171043"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "936326038634512414",
+        "type": 0,
+        "content": "Nahh 3000 share",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "761282372565860372",
+            "username": "!\u015bt\u00e5r",
+            "avatar": "ddb7d9e8ff5217a5354f828cf105b8d2",
+            "discriminator": "7410",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:25:23.707000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936325834770370581",
+        "type": 19,
+        "content": "NIO PUTS ? \ud83d\udcc9",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "838720658720555039",
+            "username": "Edgar31",
+            "avatar": "984cb9b9f23404c2ac7b81dcca43af8d",
+            "discriminator": "9533",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "761282372565860372",
+                "username": "!\u015bt\u00e5r",
+                "avatar": "ddb7d9e8ff5217a5354f828cf105b8d2",
+                "discriminator": "7410",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:24:35.102000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936325639517126686"
+        },
+        "referenced_message": {
+            "id": "936325639517126686",
+            "type": 0,
+            "content": "Buying NIO let see what happen",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "761282372565860372",
+                "username": "!\u015bt\u00e5r",
+                "avatar": "ddb7d9e8ff5217a5354f828cf105b8d2",
+                "discriminator": "7410",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:23:48.550000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": [
+            "NIO",
+            "PUTS"
+        ]
+    },
+    {
+        "id": "936325790197493811",
+        "type": 19,
+        "content": "It\u2019s a result is supply chain and Joe does take alot of that responsibility.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "815798885288116224",
+            "username": "suitable_gains",
+            "avatar": "4fa1846889b06f7d2ac6d1afc8188ecc",
+            "discriminator": "9381",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "875132215380545558",
+                "username": "Gnarley",
+                "avatar": "958a11ed989cce3263bce46ed21cda5a",
+                "discriminator": "7773",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:24:24.475000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936325581241462814"
+        },
+        "referenced_message": {
+            "id": "936325581241462814",
+            "type": 19,
+            "content": "You think this is the presidents fault? You're placing blame on the wrong thing, It's covid, It's affected the entire global economy and it started  while the former president was in office. The economy nor covid was the fault of either president.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "875132215380545558",
+                "username": "Gnarley",
+                "avatar": "958a11ed989cce3263bce46ed21cda5a",
+                "discriminator": "7773",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "167121331316457472",
+                    "username": "DustyCrevice",
+                    "avatar": "38000eeb0f9248e7249f3fe6ab1b13c9",
+                    "discriminator": "5524",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:23:34.656000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "936324003600171043"
+            }
+        },
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udc4d"
+                },
+                "count": 4,
+                "me": false
+            }
+        ],
+        "tickers": []
+    },
+    {
+        "id": "936325661994405909",
+        "type": 0,
+        "content": "vix ll reject 33 band where to bounce expect",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "739677726172250153",
+            "username": "ReversalKing",
+            "avatar": "40e8c4c2fe9257504be3c5c605086153",
+            "discriminator": "3528",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:23:53.909000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936325639517126686",
+        "type": 0,
+        "content": "Buying NIO let see what happen",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "761282372565860372",
+            "username": "!\u015bt\u00e5r",
+            "avatar": "ddb7d9e8ff5217a5354f828cf105b8d2",
+            "discriminator": "7410",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:23:48.550000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83e\udd1e"
+                },
+                "count": 1,
+                "me": false
+            }
+        ],
+        "tickers": [
+            "NIO"
+        ]
+    },
+    {
+        "id": "936325632772702328",
+        "type": 19,
+        "content": "puts at support nice",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "796114024495972413",
+            "username": "Vinny Gambini (Tom Lee Fanboy)",
+            "avatar": "ebdab467dca0da1300e7d2c93879f2de",
+            "discriminator": "1693",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "906999003399483433",
+                "username": "issk0ji",
+                "avatar": "157e517cdbf371a47aaead44675714a3",
+                "discriminator": "5941",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:23:46.942000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936325476241244280"
+        },
+        "referenced_message": {
+            "id": "936325476241244280",
+            "type": 0,
+            "content": "Yeah.. I think I\u2019m just gna buy spy puts for now.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "906999003399483433",
+                "username": "issk0ji",
+                "avatar": "157e517cdbf371a47aaead44675714a3",
+                "discriminator": "5941",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-01-27T18:23:09.622000+00:00",
+            "edited_timestamp": "2022-01-27T18:23:19.983000+00:00",
+            "flags": 0,
+            "components": []
+        },
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\ude02"
+                },
+                "count": 1,
+                "me": false
+            }
+        ],
+        "tickers": []
+    },
+    {
+        "id": "936325581241462814",
+        "type": 19,
+        "content": "You think this is the presidents fault? You're placing blame on the wrong thing, It's covid, It's affected the entire global economy and it started  while the former president was in office. The economy nor covid was the fault of either president.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "875132215380545558",
+            "username": "Gnarley",
+            "avatar": "958a11ed989cce3263bce46ed21cda5a",
+            "discriminator": "7773",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "167121331316457472",
+                "username": "DustyCrevice",
+                "avatar": "38000eeb0f9248e7249f3fe6ab1b13c9",
+                "discriminator": "5524",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:23:34.656000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "936324003600171043"
+        },
+        "referenced_message": null,
+        "tickers": []
+    },
+    {
+        "id": "936325476241244280",
+        "type": 0,
+        "content": "Yeah.. I think I\u2019m just gna buy spy puts for now.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "906999003399483433",
+            "username": "issk0ji",
+            "avatar": "157e517cdbf371a47aaead44675714a3",
+            "discriminator": "5941",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:23:09.622000+00:00",
+        "edited_timestamp": "2022-01-27T18:23:19.983000+00:00",
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936325371190706228",
+        "type": 0,
+        "content": "$INDO only strength during this tape looking for $5.90 break",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "735214526840045673",
+            "username": "DK64 Trades",
+            "avatar": "b2e810db109279e4761b8c298700d0fb",
+            "discriminator": "0661",
+            "public_flags": 0
+        },
+        "attachments": [
+            {
+                "id": "936325371379482654",
+                "filename": "IMG_1354.png",
+                "size": 526068,
+                "url": "https://cdn.discordapp.com/attachments/697135489484062762/936325371379482654/IMG_1354.png",
+                "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/936325371379482654/IMG_1354.png",
+                "width": 1170,
+                "height": 2532,
+                "content_type": "image/jpeg"
+            }
+        ],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:22:44.576000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "INDO"
+        ]
+    },
+    {
+        "id": "936325153372110890",
+        "type": 0,
+        "content": "UVXY watching puts if SPY touches 430....should bounce first time.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "829501674597908520",
+            "username": "Nerky_Clown",
+            "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
+            "discriminator": "6656",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:21:52.644000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "UVXY",
+            "SPY"
+        ]
+    },
+    {
+        "id": "936325140772438026",
+        "type": 0,
+        "content": "lmao bbig looking so dead here",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "801008868149952563",
+            "username": "Kasia",
+            "avatar": "a3fff578501e4bc663c79d0154560609",
+            "discriminator": "0675",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:21:49.640000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "936324978910035989",
+        "type": 0,
+        "content": "$SOXS still moving after 5.50 pullback",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "492531574814801952",
+            "username": "Mr. Duckworth \ud83e\udd86",
+            "avatar": "5385e0d0d272e1b8653cc4e0a7d52bad",
+            "discriminator": "2335",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:21:11.049000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "SOXS"
+        ]
+    },
+    {
+        "id": "936324774248984668",
+        "type": 0,
+        "content": "$UONE trying a bounce off 5.37",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "492531574814801952",
+            "username": "Mr. Duckworth \ud83e\udd86",
+            "avatar": "5385e0d0d272e1b8653cc4e0a7d52bad",
+            "discriminator": "2335",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-01-27T18:20:22.254000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "UONE"
+        ]
+    }
+]
