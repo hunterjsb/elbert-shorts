@@ -12,7 +12,7 @@ with open('resource/secrets.json') as s_f:
 
 
 class Plotter:
-    def __init__(self, creds=None):
+    def __init__(self, creds: dict = None):
         if creds:
             self.api_key = creds['polygon api key']
 
@@ -59,15 +59,10 @@ class Plotter:
         ax[0].set_title('Top 10 Mentioned Tickers')
 
         for i in range(n_stocks):
-            print(df['ticker'])
             self.get_stock(ticker=df['ticker'][i],
-                           date_range=["2021-10-26", "2022-01-26"],
+                           date_range=["2021-10-26", "2022-02-01"],  # TODO FIX THIS
                            timespan='day')
             if 'results' in self.stock_cache:
-                data = pd.DataFrame(self.stock_cache['results'])
-                up = data[data.c <= data.o]
-                down = data[data.c > data.o]
-
                 self.candlestick_chart(ax[i+1])
                 ax[i+1].set_title(df['ticker'][i])
             else:
@@ -76,7 +71,11 @@ class Plotter:
 
     def candlestick_chart(self, axis: plt, prices: pd.DataFrame = None, candle_width=.4, wick_width=.05,
                           volume_opacity=0.25, scaling_factor=50):
-        """creates a candlestick chart from a pandas """
+        """
+        creates a candlestick chart from a pandas dataframe.
+        if no data is passed it will use the cached data.
+        if no data is cached it will load the cache from last session.
+        """
         if not prices:
             if self.stock_cache:
                 prices = pd.DataFrame(self.stock_cache['results'])
@@ -112,7 +111,7 @@ class Plotter:
 
 #####################################
 if __name__ == "__main__":
-    eb = Elbert(credentials)
+    eb = Elbert(None)
     msgs = eb.load_messages()
     counts = eb.parse_cache(TickerExtractor())
     print(counts)

@@ -76,9 +76,9 @@ class Elbert:
 
         if not self.logged_in:
             self.login()
-        time.sleep(1)  # replace with webdriver EC
+        time.sleep(3)  # replace with webdriver EC
         self.driver.get('https://discord.com/channels/428232997737594901/697135489484062762')  # xan nation
-        WebDriverWait(self.driver, 3).until(EC.presence_of_element_located((By.XPATH, nsfw_continue_button)))
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, nsfw_continue_button)))
         time.sleep(1)  # replace with try... except above - click sometimes get interrupted
         self.driver.find_element(By.XPATH, nsfw_continue_button).click()
 
