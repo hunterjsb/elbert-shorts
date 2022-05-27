@@ -78,11 +78,13 @@ class Elbert:
             self.login()
         time.sleep(3)  # replace with webdriver EC
         self.driver.get('https://discord.com/channels/428232997737594901/697135489484062762')  # xan nation
-        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, nsfw_continue_button)))
-        time.sleep(1)  # replace with try... except above - click sometimes get interrupted
-        self.driver.find_element(By.XPATH, nsfw_continue_button).click()
 
-    def get_logs(self):
+        # DEPRECATED CODE - Atlas removed NSFW accept button
+        # WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, nsfw_continue_button)))
+        # time.sleep(1)  # replace with try... except above - click sometimes get interrupted
+        # self.driver.find_element(By.XPATH, nsfw_continue_button).click()
+
+    def _get_logs(self):
         """extract http requests from logs"""
         logs_raw = self.driver.get_log("performance")
         logs = [json.loads(lr["message"])["message"] for lr in logs_raw]
@@ -117,9 +119,11 @@ class Elbert:
             return self._load_cache()
 
         self.join_atlas()
-        responses = []
-        _logs = self.get_logs()
+        # TODO FIX THIS
+        time.sleep(5)
 
+        responses = []
+        _logs = self._get_logs()
         for _log in filter(self.log_filter, _logs):
             request_id = _log["params"]["requestId"]
             resp_url = _log["params"]["response"]["url"]
@@ -152,8 +156,7 @@ class Elbert:
 if __name__ == "__main__":
 
     # join: atlas trading / trading floor 1
-    elbert = Elbert(None)
-    # elbert.join_atlas()
+    elbert = Elbert(credentials)
 
     # open the messages
     elbert.load_messages()
