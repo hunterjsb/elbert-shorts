@@ -48,7 +48,7 @@ class Plotter:
     def top_stocks(self, stock_counts: dict, n_stocks: int = 3):
         """
         takes in a dict of the most mentioned tickers & their frequencies.
-        generates n + 1 plots, plot 0 being a bar chart of the most mentioned ticker.
+        generates n + 1 plots, plot 0 being a bar chart of the most mentioned tickers.
         charts 1:n will be the price top n tickers.
         """
         fig, ax = plt.subplots(n_stocks+1)
@@ -60,7 +60,7 @@ class Plotter:
 
         for i in range(n_stocks):
             self.get_stock(ticker=df['ticker'][i],
-                           date_range=["2021-10-26", "2022-02-01"],  # TODO FIX THIS
+                           date_range=["2022-01-01", "2022-05-27"],  # TODO DYNAMIC DATE
                            timespan='day')
             if 'results' in self.stock_cache:
                 self.candlestick_chart(ax[i+1])
@@ -111,7 +111,7 @@ class Plotter:
 
 #####################################
 if __name__ == "__main__":
-    eb = Elbert(None)
+    eb = Elbert(credentials, ignore_common_phrases=True)
     msgs = eb.load_messages()
     counts = eb.parse_cache(TickerExtractor())
     print(counts)

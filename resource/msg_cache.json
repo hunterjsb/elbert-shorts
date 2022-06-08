@@ -1,82 +1,26 @@
 [
     {
-        "id": "979775617895637043",
-        "type": 0,
-        "content": "$SLGH spiking up.",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "797160602162036756",
-            "username": "Tradeology Analytics",
-            "avatar": "3e1ef861fc9b30955d03de017ace598d",
-            "avatar_decoration": null,
-            "discriminator": "5895",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:58:30.657000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "SLGH"
-        ]
-    },
-    {
-        "id": "979775562560204801",
-        "type": 0,
-        "content": "XELA strong",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "761211026377015376",
-            "username": "stockSL",
-            "avatar": "f2ae18d5f2e95506b42737d5264c3fae",
-            "avatar_decoration": null,
-            "discriminator": "9523",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:58:17.464000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "XELA"
-        ]
-    },
-    {
-        "id": "979775539936133211",
+        "id": "984199429999448084",
         "type": 19,
-        "content": "people finally realized dilution isn\u2019t the best thing.",
+        "content": "There was zero C19 classification on my release,  if I didn't have a personal  nebulizer @ home with the steroidal treatment I would've probably held C19 longer due to where it infected me.",
         "channel_id": "697135489484062762",
         "author": {
-            "id": "818471463967129611",
-            "username": "tdawg",
-            "avatar": "81e2b527dfa24633b8cdc2749da136ed",
+            "id": "492531574814801952",
+            "username": "D U C K W \ud83e\udd34 R T H",
+            "avatar": "4fcf8aaab23f6720ec530c6623cc3330",
             "avatar_decoration": null,
-            "discriminator": "2291",
+            "discriminator": "2335",
             "public_flags": 0
         },
         "attachments": [],
         "embeds": [],
         "mentions": [
             {
-                "id": "253177336810307585",
-                "username": "clh74",
-                "avatar": "43d6c6adc663b4badabb886768e53cc7",
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
                 "avatar_decoration": null,
-                "discriminator": "0568",
+                "discriminator": "7125",
                 "public_flags": 0
             }
         ],
@@ -84,37 +28,102 @@
         "pinned": false,
         "mention_everyone": false,
         "tts": false,
-        "timestamp": "2022-05-27T15:58:12.070000+00:00",
+        "timestamp": "2022-06-08T20:57:09.653000+00:00",
         "edited_timestamp": null,
         "flags": 0,
         "components": [],
         "message_reference": {
             "channel_id": "697135489484062762",
             "guild_id": "428232997737594901",
-            "message_id": "979775278861668442"
+            "message_id": "984198750664798368"
         },
         "referenced_message": {
-            "id": "979775278861668442",
-            "type": 19,
-            "content": "Nerky warned us",
+            "id": "984198750664798368",
+            "type": 0,
+            "content": "How do you guys know the type of strains you had?",
             "channel_id": "697135489484062762",
             "author": {
-                "id": "253177336810307585",
-                "username": "clh74",
-                "avatar": "43d6c6adc663b4badabb886768e53cc7",
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
                 "avatar_decoration": null,
-                "discriminator": "0568",
+                "discriminator": "7125",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:54:27.687000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "984199267310780486",
+        "type": 19,
+        "content": "Sucks man. Hopefully it\u2019ll continue to get better",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "223929280470581250",
+                "username": "PsychoHobo",
+                "avatar": "7cf6803d3ccef0cadac387819142c69d",
+                "avatar_decoration": null,
+                "discriminator": "8651",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:56:30.865000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984199007528189962"
+        },
+        "referenced_message": {
+            "id": "984199007528189962",
+            "type": 19,
+            "content": "My wife had me start doing Olfactory training to help try and regain about one month after it started. Still have trouble with certain things.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "223929280470581250",
+                "username": "PsychoHobo",
+                "avatar": "7cf6803d3ccef0cadac387819142c69d",
+                "avatar_decoration": null,
+                "discriminator": "8651",
                 "public_flags": 0
             },
             "attachments": [],
             "embeds": [],
             "mentions": [
                 {
-                    "id": "829501674597908520",
-                    "username": "Nerky_Clown",
-                    "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
+                    "id": "723583838839767070",
+                    "username": "EveryOtherDayTrader",
+                    "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
                     "avatar_decoration": null,
-                    "discriminator": "6656",
+                    "discriminator": "7125",
                     "public_flags": 0
                 }
             ],
@@ -122,68 +131,40 @@
             "pinned": false,
             "mention_everyone": false,
             "tts": false,
-            "timestamp": "2022-05-27T15:57:09.825000+00:00",
+            "timestamp": "2022-06-08T20:55:28.928000+00:00",
             "edited_timestamp": null,
             "flags": 0,
             "components": [],
             "message_reference": {
                 "channel_id": "697135489484062762",
                 "guild_id": "428232997737594901",
-                "message_id": "979773512338243664"
+                "message_id": "984198424071114763"
             }
         },
         "tickers": []
     },
     {
-        "id": "979775319210868796",
-        "type": 0,
-        "content": "GOCO loading up",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "796814608413360168",
-            "username": "TrustFundBaby",
-            "avatar": "d0685ad82e8440808eef68e86b676a25",
-            "avatar_decoration": null,
-            "discriminator": "9932",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:57:19.445000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "GOCO"
-        ]
-    },
-    {
-        "id": "979775278861668442",
+        "id": "984199227481657375",
         "type": 19,
-        "content": "Nerky warned us",
+        "content": "At least you ate. Ended up in er after vomiting for 8 days.",
         "channel_id": "697135489484062762",
         "author": {
-            "id": "253177336810307585",
-            "username": "clh74",
-            "avatar": "43d6c6adc663b4badabb886768e53cc7",
+            "id": "851234092962807829",
+            "username": "Swing_Trader",
+            "avatar": "37456ae20011baa00c6144c3bda8be6e",
             "avatar_decoration": null,
-            "discriminator": "0568",
+            "discriminator": "5063",
             "public_flags": 0
         },
         "attachments": [],
         "embeds": [],
         "mentions": [
             {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
                 "avatar_decoration": null,
-                "discriminator": "6656",
+                "discriminator": "7125",
                 "public_flags": 0
             }
         ],
@@ -191,82 +172,75 @@
         "pinned": false,
         "mention_everyone": false,
         "tts": false,
-        "timestamp": "2022-05-27T15:57:09.825000+00:00",
+        "timestamp": "2022-06-08T20:56:21.369000+00:00",
         "edited_timestamp": null,
         "flags": 0,
         "components": [],
         "message_reference": {
             "channel_id": "697135489484062762",
             "guild_id": "428232997737594901",
-            "message_id": "979773512338243664"
+            "message_id": "984198624395264030"
         },
         "referenced_message": {
-            "id": "979773512338243664",
+            "id": "984198624395264030",
             "type": 0,
-            "content": "CRTD oopsie did someone warn us?",
+            "content": "Day 4 was fun",
             "channel_id": "697135489484062762",
             "author": {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
                 "avatar_decoration": null,
-                "discriminator": "6656",
+                "discriminator": "7125",
                 "public_flags": 0
             },
-            "attachments": [],
+            "attachments": [
+                {
+                    "id": "984198623371862106",
+                    "filename": "DC6847B2-EF7A-4C8F-8DD7-0B669E34C157.png",
+                    "size": 519995,
+                    "url": "https://cdn.discordapp.com/attachments/697135489484062762/984198623371862106/DC6847B2-EF7A-4C8F-8DD7-0B669E34C157.png",
+                    "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/984198623371862106/DC6847B2-EF7A-4C8F-8DD7-0B669E34C157.png",
+                    "width": 1170,
+                    "height": 2532,
+                    "content_type": "image/png"
+                }
+            ],
             "embeds": [],
             "mentions": [],
             "mention_roles": [],
             "pinned": false,
             "mention_everyone": false,
             "tts": false,
-            "timestamp": "2022-05-27T15:50:08.653000+00:00",
+            "timestamp": "2022-06-08T20:53:57.582000+00:00",
             "edited_timestamp": null,
             "flags": 0,
             "components": []
         },
-        "reactions": [
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\ud83d\udc4d"
-                },
-                "count": 1,
-                "me": false
-            },
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\u26a0\ufe0f"
-                },
-                "count": 1,
-                "me": false
-            }
-        ],
         "tickers": []
     },
     {
-        "id": "979775065950404628",
+        "id": "984199193369395272",
         "type": 19,
-        "content": "which week",
+        "content": "I am sure the microbiology lab is finding out the variants and providing the information to the local health departments. But as a nurse, we were never given that information. Not even the doctors. I read through every single note that they had for the patients. Never found a variant",
         "channel_id": "697135489484062762",
         "author": {
-            "id": "829501674597908520",
-            "username": "Nerky_Clown",
-            "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
             "avatar_decoration": null,
-            "discriminator": "6656",
+            "discriminator": "7125",
             "public_flags": 0
         },
         "attachments": [],
         "embeds": [],
         "mentions": [
             {
-                "id": "437038648215470102",
-                "username": "Olsofa",
-                "avatar": "54cd1e0015f91928fb59f374dc4f36b6",
+                "id": "851234092962807829",
+                "username": "Swing_Trader",
+                "avatar": "37456ae20011baa00c6144c3bda8be6e",
                 "avatar_decoration": null,
-                "discriminator": "0849",
+                "discriminator": "5063",
                 "public_flags": 0
             }
         ],
@@ -274,37 +248,37 @@
         "pinned": false,
         "mention_everyone": false,
         "tts": false,
-        "timestamp": "2022-05-27T15:56:19.063000+00:00",
+        "timestamp": "2022-06-08T20:56:13.236000+00:00",
         "edited_timestamp": null,
         "flags": 0,
         "components": [],
         "message_reference": {
             "channel_id": "697135489484062762",
             "guild_id": "428232997737594901",
-            "message_id": "979774946458861639"
+            "message_id": "984198965425745990"
         },
         "referenced_message": {
-            "id": "979774946458861639",
+            "id": "984198965425745990",
             "type": 19,
-            "content": "yeah take a look at the options chain \ud83d\ude04",
+            "content": "Hospital told me. Not sure how they determine that. Could\u2019ve been by symptoms, idk. Lasted a month",
             "channel_id": "697135489484062762",
             "author": {
-                "id": "437038648215470102",
-                "username": "Olsofa",
-                "avatar": "54cd1e0015f91928fb59f374dc4f36b6",
+                "id": "851234092962807829",
+                "username": "Swing_Trader",
+                "avatar": "37456ae20011baa00c6144c3bda8be6e",
                 "avatar_decoration": null,
-                "discriminator": "0849",
+                "discriminator": "5063",
                 "public_flags": 0
             },
             "attachments": [],
             "embeds": [],
             "mentions": [
                 {
-                    "id": "829501674597908520",
-                    "username": "Nerky_Clown",
-                    "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
+                    "id": "723583838839767070",
+                    "username": "EveryOtherDayTrader",
+                    "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
                     "avatar_decoration": null,
-                    "discriminator": "6656",
+                    "discriminator": "7125",
                     "public_flags": 0
                 }
             ],
@@ -312,1597 +286,22 @@
             "pinned": false,
             "mention_everyone": false,
             "tts": false,
-            "timestamp": "2022-05-27T15:55:50.574000+00:00",
+            "timestamp": "2022-06-08T20:55:18.890000+00:00",
             "edited_timestamp": null,
             "flags": 0,
             "components": [],
             "message_reference": {
                 "channel_id": "697135489484062762",
                 "guild_id": "428232997737594901",
-                "message_id": "979774604245606480"
+                "message_id": "984198750664798368"
             }
         },
         "tickers": []
     },
     {
-        "id": "979774999961427988",
-        "type": 0,
-        "content": "might be time to add cmrx",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "812056657177477121",
-            "username": "Young599",
-            "avatar": "14244aa9b7c67fae18da4f867c0c1e49",
-            "avatar_decoration": null,
-            "discriminator": "9208",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:56:03.330000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": []
-    },
-    {
-        "id": "979774946458861639",
+        "id": "984199083361198110",
         "type": 19,
-        "content": "yeah take a look at the options chain \ud83d\ude04",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "437038648215470102",
-            "username": "Olsofa",
-            "avatar": "54cd1e0015f91928fb59f374dc4f36b6",
-            "avatar_decoration": null,
-            "discriminator": "0849",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                "avatar_decoration": null,
-                "discriminator": "6656",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:55:50.574000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979774604245606480"
-        },
-        "referenced_message": {
-            "id": "979774604245606480",
-            "type": 19,
-            "content": "Stock is known for parabolic moves in AHs trading....i know they wanna sell Buy buy baby. GME CEO in it too",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                "avatar_decoration": null,
-                "discriminator": "6656",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [
-                {
-                    "id": "437038648215470102",
-                    "username": "Olsofa",
-                    "avatar": "54cd1e0015f91928fb59f374dc4f36b6",
-                    "avatar_decoration": null,
-                    "discriminator": "0849",
-                    "public_flags": 0
-                }
-            ],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:54:28.984000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": [],
-            "message_reference": {
-                "channel_id": "697135489484062762",
-                "guild_id": "428232997737594901",
-                "message_id": "979774348531494952"
-            }
-        },
-        "tickers": []
-    },
-    {
-        "id": "979774888145473556",
-        "type": 0,
-        "content": "Winners and losers in the retail space lately....maybe BBBY is a winner.",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "829501674597908520",
-            "username": "Nerky_Clown",
-            "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-            "avatar_decoration": null,
-            "discriminator": "6656",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:55:36.671000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "BBBY"
-        ]
-    },
-    {
-        "id": "979774763339763752",
-        "type": 0,
-        "content": "APRE very sneaky. up 20% from today\u2019s low broke out of resistance",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "818471463967129611",
-            "username": "tdawg",
-            "avatar": "81e2b527dfa24633b8cdc2749da136ed",
-            "avatar_decoration": null,
-            "discriminator": "2291",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:55:06.915000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "APRE"
-        ]
-    },
-    {
-        "id": "979774718871732244",
-        "type": 19,
-        "content": "Ryan Cohen is his name. Pimpin is his game",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "796814608413360168",
-            "username": "TrustFundBaby",
-            "avatar": "d0685ad82e8440808eef68e86b676a25",
-            "avatar_decoration": null,
-            "discriminator": "9932",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                "avatar_decoration": null,
-                "discriminator": "6656",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:54:56.313000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979774604245606480"
-        },
-        "referenced_message": {
-            "id": "979774604245606480",
-            "type": 19,
-            "content": "Stock is known for parabolic moves in AHs trading....i know they wanna sell Buy buy baby. GME CEO in it too",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                "avatar_decoration": null,
-                "discriminator": "6656",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [
-                {
-                    "id": "437038648215470102",
-                    "username": "Olsofa",
-                    "avatar": "54cd1e0015f91928fb59f374dc4f36b6",
-                    "avatar_decoration": null,
-                    "discriminator": "0849",
-                    "public_flags": 0
-                }
-            ],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:54:28.984000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": [],
-            "message_reference": {
-                "channel_id": "697135489484062762",
-                "guild_id": "428232997737594901",
-                "message_id": "979774348531494952"
-            }
-        },
-        "reactions": [
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\ud83d\udc4d"
-                },
-                "count": 1,
-                "me": false
-            }
-        ],
-        "tickers": []
-    },
-    {
-        "id": "979774674055622756",
-        "type": 0,
-        "content": "AVDL broke trend.  goin down",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "274737766431064065",
-            "username": "Head of Potatoes",
-            "avatar": "6a6426b2e72d4d6a45b8e92d6b2ad767",
-            "avatar_decoration": null,
-            "discriminator": "2746",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:54:45.628000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "AVDL"
-        ]
-    },
-    {
-        "id": "979774604245606480",
-        "type": 19,
-        "content": "Stock is known for parabolic moves in AHs trading....i know they wanna sell Buy buy baby. GME CEO in it too",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "829501674597908520",
-            "username": "Nerky_Clown",
-            "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-            "avatar_decoration": null,
-            "discriminator": "6656",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "437038648215470102",
-                "username": "Olsofa",
-                "avatar": "54cd1e0015f91928fb59f374dc4f36b6",
-                "avatar_decoration": null,
-                "discriminator": "0849",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:54:28.984000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979774348531494952"
-        },
-        "referenced_message": {
-            "id": "979774348531494952",
-            "type": 0,
-            "content": "BBBY gamma squeeze potential",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "437038648215470102",
-                "username": "Olsofa",
-                "avatar": "54cd1e0015f91928fb59f374dc4f36b6",
-                "avatar_decoration": null,
-                "discriminator": "0849",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:53:28.017000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": []
-        },
-        "reactions": [
-            {
-                "emoji": {
-                    "id": "685107895121084424",
-                    "name": "this"
-                },
-                "count": 1,
-                "me": false
-            }
-        ],
-        "tickers": [
-            "GME"
-        ]
-    },
-    {
-        "id": "979774482401067019",
-        "type": 19,
-        "content": "Good stock to speculate on when market forgets about it. record date is key",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "829501674597908520",
-            "username": "Nerky_Clown",
-            "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-            "avatar_decoration": null,
-            "discriminator": "6656",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "797160602162036756",
-                "username": "Tradeology Analytics",
-                "avatar": "3e1ef861fc9b30955d03de017ace598d",
-                "avatar_decoration": null,
-                "discriminator": "5895",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:53:59.934000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979774230780600371"
-        },
-        "referenced_message": {
-            "id": "979774230780600371",
-            "type": 19,
-            "content": "I told someone I know not to buy it after I sold yesterday and he did anyways.",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "797160602162036756",
-                "username": "Tradeology Analytics",
-                "avatar": "3e1ef861fc9b30955d03de017ace598d",
-                "avatar_decoration": null,
-                "discriminator": "5895",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [
-                {
-                    "id": "829501674597908520",
-                    "username": "Nerky_Clown",
-                    "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                    "avatar_decoration": null,
-                    "discriminator": "6656",
-                    "public_flags": 0
-                }
-            ],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:52:59.943000+00:00",
-            "edited_timestamp": "2022-05-27T15:53:15.131000+00:00",
-            "flags": 0,
-            "components": [],
-            "message_reference": {
-                "channel_id": "697135489484062762",
-                "guild_id": "428232997737594901",
-                "message_id": "979773512338243664"
-            }
-        },
-        "tickers": []
-    },
-    {
-        "id": "979774470413774888",
-        "type": 0,
-        "content": "GOCO moving strong now.",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "796814608413360168",
-            "username": "TrustFundBaby",
-            "avatar": "d0685ad82e8440808eef68e86b676a25",
-            "avatar_decoration": null,
-            "discriminator": "9932",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:53:57.076000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "GOCO"
-        ]
-    },
-    {
-        "id": "979774348531494952",
-        "type": 0,
-        "content": "BBBY gamma squeeze potential",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "437038648215470102",
-            "username": "Olsofa",
-            "avatar": "54cd1e0015f91928fb59f374dc4f36b6",
-            "avatar_decoration": null,
-            "discriminator": "0849",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:53:28.017000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "reactions": [
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\ud83d\udc40"
-                },
-                "count": 1,
-                "me": false
-            }
-        ],
-        "tickers": [
-            "BBBY"
-        ]
-    },
-    {
-        "id": "979774248509919282",
-        "type": 19,
-        "content": "The hopium pipe got passed around a little too much last night",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "796814608413360168",
-            "username": "TrustFundBaby",
-            "avatar": "d0685ad82e8440808eef68e86b676a25",
-            "avatar_decoration": null,
-            "discriminator": "9932",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "274737766431064065",
-                "username": "Head of Potatoes",
-                "avatar": "6a6426b2e72d4d6a45b8e92d6b2ad767",
-                "avatar_decoration": null,
-                "discriminator": "2746",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:53:04.170000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979773982381318224"
-        },
-        "referenced_message": {
-            "id": "979773982381318224",
-            "type": 0,
-            "content": "Not sure why people are still in CRTD",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "274737766431064065",
-                "username": "Head of Potatoes",
-                "avatar": "6a6426b2e72d4d6a45b8e92d6b2ad767",
-                "avatar_decoration": null,
-                "discriminator": "2746",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:52:00.720000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": []
-        },
-        "tickers": []
-    },
-    {
-        "id": "979774230780600371",
-        "type": 19,
-        "content": "I told someone I know not to buy it after I sold yesterday and he did anyways.",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "797160602162036756",
-            "username": "Tradeology Analytics",
-            "avatar": "3e1ef861fc9b30955d03de017ace598d",
-            "avatar_decoration": null,
-            "discriminator": "5895",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                "avatar_decoration": null,
-                "discriminator": "6656",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:52:59.943000+00:00",
-        "edited_timestamp": "2022-05-27T15:53:15.131000+00:00",
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979773512338243664"
-        },
-        "referenced_message": {
-            "id": "979773512338243664",
-            "type": 0,
-            "content": "CRTD oopsie did someone warn us?",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                "avatar_decoration": null,
-                "discriminator": "6656",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:50:08.653000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": []
-        },
-        "tickers": []
-    },
-    {
-        "id": "979774028271202325",
-        "type": 0,
-        "content": "$OTRK fair amount of shorting. Some volume would scoot it right up.",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "797160602162036756",
-            "username": "Tradeology Analytics",
-            "avatar": "3e1ef861fc9b30955d03de017ace598d",
-            "avatar_decoration": null,
-            "discriminator": "5895",
-            "public_flags": 0
-        },
-        "attachments": [
-            {
-                "id": "979774025469423626",
-                "filename": "IMG_0350.png",
-                "size": 619200,
-                "url": "https://cdn.discordapp.com/attachments/697135489484062762/979774025469423626/IMG_0350.png",
-                "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/979774025469423626/IMG_0350.png",
-                "width": 1117,
-                "height": 2184,
-                "content_type": "image/jpeg"
-            },
-            {
-                "id": "979774025767211048",
-                "filename": "IMG_0351.png",
-                "size": 329813,
-                "url": "https://cdn.discordapp.com/attachments/697135489484062762/979774025767211048/IMG_0351.png",
-                "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/979774025767211048/IMG_0351.png",
-                "width": 1125,
-                "height": 918,
-                "content_type": "image/jpeg"
-            },
-            {
-                "id": "979774026174046258",
-                "filename": "IMG_0352.png",
-                "size": 282030,
-                "url": "https://cdn.discordapp.com/attachments/697135489484062762/979774026174046258/IMG_0352.png",
-                "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/979774026174046258/IMG_0352.png",
-                "width": 1125,
-                "height": 969,
-                "content_type": "image/jpeg"
-            }
-        ],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:52:11.661000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "OTRK"
-        ]
-    },
-    {
-        "id": "979774019274436609",
-        "type": 19,
-        "content": "Man hands \ud83d\ude06",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "796814608413360168",
-            "username": "TrustFundBaby",
-            "avatar": "d0685ad82e8440808eef68e86b676a25",
-            "avatar_decoration": null,
-            "discriminator": "9932",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "811726173595500604",
-                "username": "Meatmullet",
-                "avatar": "a83d25e338bc525d151476ced38d90d9",
-                "avatar_decoration": null,
-                "discriminator": "0716",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:52:09.516000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979773953943928892"
-        },
-        "referenced_message": {
-            "id": "979773953943928892",
-            "type": 19,
-            "content": "Makes me think about Deuce Bigalow when he is walking down the street with the linebacker chick",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "811726173595500604",
-                "username": "Meatmullet",
-                "avatar": "a83d25e338bc525d151476ced38d90d9",
-                "avatar_decoration": null,
-                "discriminator": "0716",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [
-                {
-                    "id": "796814608413360168",
-                    "username": "TrustFundBaby",
-                    "avatar": "d0685ad82e8440808eef68e86b676a25",
-                    "avatar_decoration": null,
-                    "discriminator": "9932",
-                    "public_flags": 0
-                }
-            ],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:51:53.940000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": [],
-            "message_reference": {
-                "channel_id": "697135489484062762",
-                "guild_id": "428232997737594901",
-                "message_id": "979773742769115207"
-            }
-        },
-        "reactions": [
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\ud83d\ude02"
-                },
-                "count": 1,
-                "me": false
-            }
-        ],
-        "tickers": []
-    },
-    {
-        "id": "979773982381318224",
-        "type": 0,
-        "content": "Not sure why people are still in CRTD",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "274737766431064065",
-            "username": "Head of Potatoes",
-            "avatar": "6a6426b2e72d4d6a45b8e92d6b2ad767",
-            "avatar_decoration": null,
-            "discriminator": "2746",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:52:00.720000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "CRTD"
-        ]
-    },
-    {
-        "id": "979773953943928892",
-        "type": 19,
-        "content": "Makes me think about Deuce Bigalow when he is walking down the street with the linebacker chick",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "811726173595500604",
-            "username": "Meatmullet",
-            "avatar": "a83d25e338bc525d151476ced38d90d9",
-            "avatar_decoration": null,
-            "discriminator": "0716",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "796814608413360168",
-                "username": "TrustFundBaby",
-                "avatar": "d0685ad82e8440808eef68e86b676a25",
-                "avatar_decoration": null,
-                "discriminator": "9932",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:51:53.940000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979773742769115207"
-        },
-        "referenced_message": {
-            "id": "979773742769115207",
-            "type": 0,
-            "content": "Thats a normal Norwegian woman",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "796814608413360168",
-                "username": "TrustFundBaby",
-                "avatar": "d0685ad82e8440808eef68e86b676a25",
-                "avatar_decoration": null,
-                "discriminator": "9932",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:51:03.592000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": []
-        },
-        "tickers": []
-    },
-    {
-        "id": "979773742769115207",
-        "type": 0,
-        "content": "Thats a normal Norwegian woman",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "796814608413360168",
-            "username": "TrustFundBaby",
-            "avatar": "d0685ad82e8440808eef68e86b676a25",
-            "avatar_decoration": null,
-            "discriminator": "9932",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:51:03.592000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": []
-    },
-    {
-        "id": "979773578646016000",
-        "type": 0,
-        "content": "6'3 210 and nerky is a woman.. well maybe lol",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "667926634409754624",
-            "username": "sakebomb",
-            "avatar": "ef80d3a2c343850d9dd3a459accea497",
-            "avatar_decoration": null,
-            "discriminator": "5020",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:50:24.462000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "reactions": [
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\ud83e\udd23"
-                },
-                "count": 2,
-                "me": false
-            },
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\ud83d\udc69"
-                },
-                "count": 1,
-                "me": false
-            }
-        ],
-        "tickers": []
-    },
-    {
-        "id": "979773512338243664",
-        "type": 0,
-        "content": "CRTD oopsie did someone warn us?",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "829501674597908520",
-            "username": "Nerky_Clown",
-            "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-            "avatar_decoration": null,
-            "discriminator": "6656",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:50:08.653000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "CRTD"
-        ]
-    },
-    {
-        "id": "979773325804969984",
-        "type": 19,
-        "content": "I\u2019ve always wanted a monkey like Travis.  Hooked on Xanax and red wine.",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "811726173595500604",
-            "username": "Meatmullet",
-            "avatar": "a83d25e338bc525d151476ced38d90d9",
-            "avatar_decoration": null,
-            "discriminator": "0716",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "817725594380271649",
-                "username": "KC",
-                "avatar": "c03356544abdc25d664506ef9f95f8be",
-                "avatar_decoration": null,
-                "discriminator": "0702",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:49:24.180000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979772544326447204"
-        },
-        "referenced_message": {
-            "id": "979772544326447204",
-            "type": 0,
-            "content": "I\u2019m holding SIGA until I can afford a monkey which I\u2019ll name Pox.",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "817725594380271649",
-                "username": "KC",
-                "avatar": "c03356544abdc25d664506ef9f95f8be",
-                "avatar_decoration": null,
-                "discriminator": "0702",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:46:17.861000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": []
-        },
-        "tickers": []
-    },
-    {
-        "id": "979773257781755914",
-        "type": 0,
-        "content": "bbig oof",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "437038648215470102",
-            "username": "Olsofa",
-            "avatar": "54cd1e0015f91928fb59f374dc4f36b6",
-            "avatar_decoration": null,
-            "discriminator": "0849",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:49:07.962000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": []
-    },
-    {
-        "id": "979773239356170240",
-        "type": 0,
-        "content": "JOBY nice recovery",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "796814608413360168",
-            "username": "TrustFundBaby",
-            "avatar": "d0685ad82e8440808eef68e86b676a25",
-            "avatar_decoration": null,
-            "discriminator": "9932",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:49:03.569000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "JOBY"
-        ]
-    },
-    {
-        "id": "979772838460411934",
-        "type": 19,
-        "content": "Capuchins are cheap. My brother has one.",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "796814608413360168",
-            "username": "TrustFundBaby",
-            "avatar": "d0685ad82e8440808eef68e86b676a25",
-            "avatar_decoration": null,
-            "discriminator": "9932",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "817725594380271649",
-                "username": "KC",
-                "avatar": "c03356544abdc25d664506ef9f95f8be",
-                "avatar_decoration": null,
-                "discriminator": "0702",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:47:27.988000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979772544326447204"
-        },
-        "referenced_message": {
-            "id": "979772544326447204",
-            "type": 0,
-            "content": "I\u2019m holding SIGA until I can afford a monkey which I\u2019ll name Pox.",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "817725594380271649",
-                "username": "KC",
-                "avatar": "c03356544abdc25d664506ef9f95f8be",
-                "avatar_decoration": null,
-                "discriminator": "0702",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:46:17.861000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": []
-        },
-        "tickers": []
-    },
-    {
-        "id": "979772793606516756",
-        "type": 0,
-        "content": "SIGA still going ham",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "817167577473482772",
-            "username": "Deka_Encore.",
-            "avatar": "bf3f7353140c76bfaf1ac2af968b720d",
-            "avatar_decoration": null,
-            "discriminator": "7465",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:47:17.294000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "SIGA"
-        ]
-    },
-    {
-        "id": "979772681048174633",
-        "type": 0,
-        "content": "thoughts on $cscw? Thinking it may be a decent entry",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "727302975789203536",
-            "username": "chuckiebadbook",
-            "avatar": null,
-            "avatar_decoration": null,
-            "discriminator": "1190",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:46:50.458000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "CSCW"
-        ]
-    },
-    {
-        "id": "979772544326447204",
-        "type": 0,
-        "content": "I\u2019m holding SIGA until I can afford a monkey which I\u2019ll name Pox.",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "817725594380271649",
-            "username": "KC",
-            "avatar": "c03356544abdc25d664506ef9f95f8be",
-            "avatar_decoration": null,
-            "discriminator": "0702",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:46:17.861000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "SIGA"
-        ]
-    },
-    {
-        "id": "979772478920482856",
-        "type": 0,
-        "content": "some sob is camped out and blocking at .38 on W",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "141550956516081664",
-            "username": "Mikey8247",
-            "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
-            "avatar_decoration": null,
-            "discriminator": "4052",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:46:02.267000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "reactions": [
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\u2615"
-                },
-                "count": 1,
-                "me": false
-            }
-        ],
-        "tickers": []
-    },
-    {
-        "id": "979772472360595517",
-        "type": 0,
-        "content": "Ok we need a solid banger to close out this Friday.",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "796814608413360168",
-            "username": "TrustFundBaby",
-            "avatar": "d0685ad82e8440808eef68e86b676a25",
-            "avatar_decoration": null,
-            "discriminator": "9932",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:46:00.703000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "reactions": [
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\u2615"
-                },
-                "count": 1,
-                "me": false
-            }
-        ],
-        "tickers": []
-    },
-    {
-        "id": "979772341909323796",
-        "type": 0,
-        "content": "",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "141550956516081664",
-            "username": "Mikey8247",
-            "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
-            "avatar_decoration": null,
-            "discriminator": "4052",
-            "public_flags": 0
-        },
-        "attachments": [
-            {
-                "id": "979772341175332864",
-                "filename": "unknown.png",
-                "size": 45104,
-                "url": "https://cdn.discordapp.com/attachments/697135489484062762/979772341175332864/unknown.png",
-                "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/979772341175332864/unknown.png",
-                "width": 584,
-                "height": 468,
-                "content_type": "image/png"
-            }
-        ],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:45:29.601000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": []
-    },
-    {
-        "id": "979772249332678697",
-        "type": 0,
-        "content": "my current mistake on trading STRN STRNW........you guys want to see a 'ball and chain'........look at level 2 box on STRNW",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "141550956516081664",
-            "username": "Mikey8247",
-            "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
-            "avatar_decoration": null,
-            "discriminator": "4052",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:45:07.529000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "STRN",
-            "STRNW"
-        ]
-    },
-    {
-        "id": "979772214310224002",
-        "type": 0,
-        "content": "BGXX curl abit on watch",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "437038648215470102",
-            "username": "Olsofa",
-            "avatar": "54cd1e0015f91928fb59f374dc4f36b6",
-            "avatar_decoration": null,
-            "discriminator": "0849",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:44:59.179000+00:00",
-        "edited_timestamp": "2022-05-27T15:45:12.801000+00:00",
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "BGXX"
-        ]
-    },
-    {
-        "id": "979772094525100032",
-        "type": 19,
-        "content": "Sucker!",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "829501674597908520",
-            "username": "Nerky_Clown",
-            "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-            "avatar_decoration": null,
-            "discriminator": "6656",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "797160602162036756",
-                "username": "Tradeology Analytics",
-                "avatar": "3e1ef861fc9b30955d03de017ace598d",
-                "avatar_decoration": null,
-                "discriminator": "5895",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:44:30.620000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979771987524218951"
-        },
-        "referenced_message": {
-            "id": "979771987524218951",
-            "type": 19,
-            "content": "Haha I\u2019m 5\u20198 fat and old, \ud83d\ude02",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "797160602162036756",
-                "username": "Tradeology Analytics",
-                "avatar": "3e1ef861fc9b30955d03de017ace598d",
-                "avatar_decoration": null,
-                "discriminator": "5895",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [
-                {
-                    "id": "829501674597908520",
-                    "username": "Nerky_Clown",
-                    "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                    "avatar_decoration": null,
-                    "discriminator": "6656",
-                    "public_flags": 0
-                }
-            ],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:44:05.109000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": [],
-            "message_reference": {
-                "channel_id": "697135489484062762",
-                "guild_id": "428232997737594901",
-                "message_id": "979771559138984017"
-            }
-        },
-        "tickers": []
-    },
-    {
-        "id": "979772086023237674",
-        "type": 19,
-        "content": "EU buying their stuff dawg where you been",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "247549113028050945",
-            "username": "Legacy",
-            "avatar": "fa81c373b20f8daf437f55bfe300f53e",
-            "avatar_decoration": null,
-            "discriminator": "0848",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "400477131722719232",
-                "username": "Solid Nate",
-                "avatar": "7e33a951678fb0e1538749ed9c8a6067",
-                "avatar_decoration": null,
-                "discriminator": "6079",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:44:28.593000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979771794418434058"
-        },
-        "referenced_message": {
-            "id": "979771794418434058",
-            "type": 0,
-            "content": "What's the news driving siga so high?",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "400477131722719232",
-                "username": "Solid Nate",
-                "avatar": "7e33a951678fb0e1538749ed9c8a6067",
-                "avatar_decoration": null,
-                "discriminator": "6079",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:43:19.069000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": []
-        },
-        "tickers": []
-    },
-    {
-        "id": "979772025977589770",
-        "type": 0,
-        "content": "OTRK \ud83d\ude80",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "818471463967129611",
-            "username": "tdawg",
-            "avatar": "81e2b527dfa24633b8cdc2749da136ed",
-            "avatar_decoration": null,
-            "discriminator": "2291",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:44:14.277000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "OTRK"
-        ]
-    },
-    {
-        "id": "979772019367354378",
-        "type": 19,
-        "content": "I\u2019m a minion, 1.59 m and 48 years old, normal looking \ud83e\uddda",
+        "content": "My son had it 3 months ago, he had for two days a little bit of fewer and than nothing",
         "channel_id": "697135489484062762",
         "author": {
             "id": "891788327500542042",
@@ -1916,11 +315,11 @@
         "embeds": [],
         "mentions": [
             {
-                "id": "141550956516081664",
-                "username": "Mikey8247",
-                "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
                 "avatar_decoration": null,
-                "discriminator": "4052",
+                "discriminator": "7125",
                 "public_flags": 0
             }
         ],
@@ -1928,128 +327,37 @@
         "pinned": false,
         "mention_everyone": false,
         "tts": false,
-        "timestamp": "2022-05-27T15:44:12.701000+00:00",
+        "timestamp": "2022-06-08T20:55:47.008000+00:00",
         "edited_timestamp": null,
         "flags": 0,
         "components": [],
         "message_reference": {
             "channel_id": "697135489484062762",
             "guild_id": "428232997737594901",
-            "message_id": "979771265080520708"
+            "message_id": "984197178207658074"
         },
         "referenced_message": {
-            "id": "979771265080520708",
-            "type": 0,
-            "content": "and guys.......i am older than dirt........a very young 74 years old.......thats the 8 2 47.........ok back to trading",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "141550956516081664",
-                "username": "Mikey8247",
-                "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
-                "avatar_decoration": null,
-                "discriminator": "4052",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:41:12.865000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": []
-        },
-        "tickers": []
-    },
-    {
-        "id": "979772016624275476",
-        "type": 0,
-        "content": "mkd",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "715670813134684230",
-            "username": "eagles",
-            "avatar": "d283bf6ff12bc54672397de36dc9eda1",
-            "avatar_decoration": null,
-            "discriminator": "8745",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:44:12.047000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": []
-    },
-    {
-        "id": "979771987524218951",
-        "type": 19,
-        "content": "Haha I\u2019m 5\u20198 fat and old, \ud83d\ude02",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "797160602162036756",
-            "username": "Tradeology Analytics",
-            "avatar": "3e1ef861fc9b30955d03de017ace598d",
-            "avatar_decoration": null,
-            "discriminator": "5895",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                "avatar_decoration": null,
-                "discriminator": "6656",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:44:05.109000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979771559138984017"
-        },
-        "referenced_message": {
-            "id": "979771559138984017",
+            "id": "984197178207658074",
             "type": 19,
-            "content": "interesting. i'm 6'3, 27 and good looking.",
+            "content": "Yes, I had Covid it before the vaccines were a thing. 12 straight days of illness. It was hell",
             "channel_id": "697135489484062762",
             "author": {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
                 "avatar_decoration": null,
-                "discriminator": "6656",
+                "discriminator": "7125",
                 "public_flags": 0
             },
             "attachments": [],
             "embeds": [],
             "mentions": [
                 {
-                    "id": "141550956516081664",
-                    "username": "Mikey8247",
-                    "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
+                    "id": "851234092962807829",
+                    "username": "Swing_Trader",
+                    "avatar": "37456ae20011baa00c6144c3bda8be6e",
                     "avatar_decoration": null,
-                    "discriminator": "4052",
+                    "discriminator": "5063",
                     "public_flags": 0
                 }
             ],
@@ -2057,39 +365,29 @@
             "pinned": false,
             "mention_everyone": false,
             "tts": false,
-            "timestamp": "2022-05-27T15:42:22.974000+00:00",
+            "timestamp": "2022-06-08T20:48:12.784000+00:00",
             "edited_timestamp": null,
             "flags": 0,
             "components": [],
             "message_reference": {
                 "channel_id": "697135489484062762",
                 "guild_id": "428232997737594901",
-                "message_id": "979771265080520708"
+                "message_id": "984197085647740948"
             }
         },
-        "reactions": [
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\ud83d\ude02"
-                },
-                "count": 1,
-                "me": false
-            }
-        ],
         "tickers": []
     },
     {
-        "id": "979771794418434058",
+        "id": "984199065292144710",
         "type": 0,
-        "content": "What's the news driving siga so high?",
+        "content": "Took the AIDS test, passed it -- Got a 65.",
         "channel_id": "697135489484062762",
         "author": {
-            "id": "400477131722719232",
-            "username": "Solid Nate",
-            "avatar": "7e33a951678fb0e1538749ed9c8a6067",
+            "id": "274737766431064065",
+            "username": "Head of Potatoes",
+            "avatar": "6a6426b2e72d4d6a45b8e92d6b2ad767",
             "avatar_decoration": null,
-            "discriminator": "6079",
+            "discriminator": "2746",
             "public_flags": 0
         },
         "attachments": [],
@@ -2099,213 +397,7 @@
         "pinned": false,
         "mention_everyone": false,
         "tts": false,
-        "timestamp": "2022-05-27T15:43:19.069000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": []
-    },
-    {
-        "id": "979771759089840188",
-        "type": 0,
-        "content": "Girls can be 6'3 too ya know",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "796814608413360168",
-            "username": "TrustFundBaby",
-            "avatar": "d0685ad82e8440808eef68e86b676a25",
-            "avatar_decoration": null,
-            "discriminator": "9932",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:43:10.646000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": []
-    },
-    {
-        "id": "979771683894353940",
-        "type": 19,
-        "content": "lol........atta boy",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "141550956516081664",
-            "username": "Mikey8247",
-            "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
-            "avatar_decoration": null,
-            "discriminator": "4052",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                "avatar_decoration": null,
-                "discriminator": "6656",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:42:52.718000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979771559138984017"
-        },
-        "referenced_message": {
-            "id": "979771559138984017",
-            "type": 19,
-            "content": "interesting. i'm 6'3, 27 and good looking.",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "829501674597908520",
-                "username": "Nerky_Clown",
-                "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-                "avatar_decoration": null,
-                "discriminator": "6656",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [
-                {
-                    "id": "141550956516081664",
-                    "username": "Mikey8247",
-                    "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
-                    "avatar_decoration": null,
-                    "discriminator": "4052",
-                    "public_flags": 0
-                }
-            ],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:42:22.974000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": [],
-            "message_reference": {
-                "channel_id": "697135489484062762",
-                "guild_id": "428232997737594901",
-                "message_id": "979771265080520708"
-            }
-        },
-        "tickers": []
-    },
-    {
-        "id": "979771559138984017",
-        "type": 19,
-        "content": "interesting. i'm 6'3, 27 and good looking.",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "829501674597908520",
-            "username": "Nerky_Clown",
-            "avatar": "b7cc8969acb9bd4d53f7b234207270f8",
-            "avatar_decoration": null,
-            "discriminator": "6656",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [
-            {
-                "id": "141550956516081664",
-                "username": "Mikey8247",
-                "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
-                "avatar_decoration": null,
-                "discriminator": "4052",
-                "public_flags": 0
-            }
-        ],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:42:22.974000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "message_reference": {
-            "channel_id": "697135489484062762",
-            "guild_id": "428232997737594901",
-            "message_id": "979771265080520708"
-        },
-        "referenced_message": {
-            "id": "979771265080520708",
-            "type": 0,
-            "content": "and guys.......i am older than dirt........a very young 74 years old.......thats the 8 2 47.........ok back to trading",
-            "channel_id": "697135489484062762",
-            "author": {
-                "id": "141550956516081664",
-                "username": "Mikey8247",
-                "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
-                "avatar_decoration": null,
-                "discriminator": "4052",
-                "public_flags": 0
-            },
-            "attachments": [],
-            "embeds": [],
-            "mentions": [],
-            "mention_roles": [],
-            "pinned": false,
-            "mention_everyone": false,
-            "tts": false,
-            "timestamp": "2022-05-27T15:41:12.865000+00:00",
-            "edited_timestamp": null,
-            "flags": 0,
-            "components": []
-        },
-        "reactions": [
-            {
-                "emoji": {
-                    "id": null,
-                    "name": "\ud83d\ude02"
-                },
-                "count": 4,
-                "me": false
-            }
-        ],
-        "tickers": []
-    },
-    {
-        "id": "979771265080520708",
-        "type": 0,
-        "content": "and guys.......i am older than dirt........a very young 74 years old.......thats the 8 2 47.........ok back to trading",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "141550956516081664",
-            "username": "Mikey8247",
-            "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
-            "avatar_decoration": null,
-            "discriminator": "4052",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:41:12.865000+00:00",
+        "timestamp": "2022-06-08T20:55:42.700000+00:00",
         "edited_timestamp": null,
         "flags": 0,
         "components": [],
@@ -2316,15 +408,2104 @@
                     "name": "\ud83d\ude02"
                 },
                 "count": 2,
+                "me": true
+            }
+        ],
+        "tickers": [
+            "AIDS"
+        ]
+    },
+    {
+        "id": "984199007528189962",
+        "type": 19,
+        "content": "My wife had me start doing Olfactory training to help try and regain about one month after it started. Still have trouble with certain things.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "223929280470581250",
+            "username": "PsychoHobo",
+            "avatar": "7cf6803d3ccef0cadac387819142c69d",
+            "avatar_decoration": null,
+            "discriminator": "8651",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:55:28.928000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984198424071114763"
+        },
+        "referenced_message": {
+            "id": "984198424071114763",
+            "type": 19,
+            "content": "That shit sucked, had to smoke weed in order for me to get an appetite so I can eat at night",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "223929280470581250",
+                    "username": "PsychoHobo",
+                    "avatar": "7cf6803d3ccef0cadac387819142c69d",
+                    "avatar_decoration": null,
+                    "discriminator": "8651",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:53:09.821000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984197891990097960"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "984198965425745990",
+        "type": 19,
+        "content": "Hospital told me. Not sure how they determine that. Could\u2019ve been by symptoms, idk. Lasted a month",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "851234092962807829",
+            "username": "Swing_Trader",
+            "avatar": "37456ae20011baa00c6144c3bda8be6e",
+            "avatar_decoration": null,
+            "discriminator": "5063",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:55:18.890000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984198750664798368"
+        },
+        "referenced_message": {
+            "id": "984198750664798368",
+            "type": 0,
+            "content": "How do you guys know the type of strains you had?",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:54:27.687000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "984198965375434753",
+        "type": 0,
+        "content": "Honestly have no way of knowing other than what was going around at that time. And my symptoms were completely different from my wife.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "815000460095782933",
+            "username": "AMRAP",
+            "avatar": "15a0636e485da5807a276d7b70701b7c",
+            "avatar_decoration": null,
+            "discriminator": "3660",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:55:18.878000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984198868910608434",
+        "type": 0,
+        "content": "At our hospital, we just test for the underlined disease. Not the variant, at least we don\u2019t do it for the patients. I have never once been able to tell a patient if they have omicron, Delta, etc",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:54:55.879000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984198750664798368",
+        "type": 0,
+        "content": "How do you guys know the type of strains you had?",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:54:27.687000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984198718762913862",
+        "type": 0,
+        "content": "did covid come from a lab?",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "809520615089635389",
+            "username": "streambot",
+            "avatar": "993ce0b9cee031b16da64d556df65685",
+            "avatar_decoration": null,
+            "discriminator": "9623",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:54:20.081000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984198634251894814",
+        "type": 19,
+        "content": "I had long Covid. Tested positive for Delta and may have acquired omicron back to back.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "851234092962807829",
+            "username": "Swing_Trader",
+            "avatar": "37456ae20011baa00c6144c3bda8be6e",
+            "avatar_decoration": null,
+            "discriminator": "5063",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:53:59.932000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984197553069387807"
+        },
+        "referenced_message": {
+            "id": "984197553069387807",
+            "type": 0,
+            "content": "My girlfriend had it for nine days. Got it from me. We were miserable",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:49:42.158000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "984198624395264030",
+        "type": 0,
+        "content": "Day 4 was fun",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [
+            {
+                "id": "984198623371862106",
+                "filename": "DC6847B2-EF7A-4C8F-8DD7-0B669E34C157.png",
+                "size": 519995,
+                "url": "https://cdn.discordapp.com/attachments/697135489484062762/984198623371862106/DC6847B2-EF7A-4C8F-8DD7-0B669E34C157.png",
+                "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/984198623371862106/DC6847B2-EF7A-4C8F-8DD7-0B669E34C157.png",
+                "width": 1170,
+                "height": 2532,
+                "content_type": "image/png"
+            }
+        ],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:53:57.582000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984198424071114763",
+        "type": 19,
+        "content": "That shit sucked, had to smoke weed in order for me to get an appetite so I can eat at night",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "223929280470581250",
+                "username": "PsychoHobo",
+                "avatar": "7cf6803d3ccef0cadac387819142c69d",
+                "avatar_decoration": null,
+                "discriminator": "8651",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:53:09.821000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984197891990097960"
+        },
+        "referenced_message": {
+            "id": "984197891990097960",
+            "type": 0,
+            "content": "Lost my taste and smell for 3 months from it last year, still not back 100%",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "223929280470581250",
+                "username": "PsychoHobo",
+                "avatar": "7cf6803d3ccef0cadac387819142c69d",
+                "avatar_decoration": null,
+                "discriminator": "8651",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:51:02.963000+00:00",
+            "edited_timestamp": "2022-06-08T20:51:24.362000+00:00",
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "984198041995186236",
+        "type": 19,
+        "content": "Interesting read, that yellow sputum was all I remember as well.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "492531574814801952",
+            "username": "D U C K W \ud83e\udd34 R T H",
+            "avatar": "4fcf8aaab23f6720ec530c6623cc3330",
+            "avatar_decoration": null,
+            "discriminator": "2335",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:51:38.727000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984197447431643197"
+        },
+        "referenced_message": {
+            "id": "984197447431643197",
+            "type": 0,
+            "content": "Day 1-12\u2026straight hell",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:49:16.972000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "984197918867202059",
+        "type": 19,
+        "content": "My wife had delta and I didn\u2019t get it. 4 months later I got omicron and she didn\u2019t get it. Crazy how it\u2019s works.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "815000460095782933",
+            "username": "AMRAP",
+            "avatar": "15a0636e485da5807a276d7b70701b7c",
+            "avatar_decoration": null,
+            "discriminator": "3660",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:51:09.371000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984197658874875974"
+        },
+        "referenced_message": {
+            "id": "984197658874875974",
+            "type": 0,
+            "content": "It killed my friend, she was my first lab partner in nursing school. And a coworker at my hospital. One of the main catalysts as to why I quit my job in December",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:50:07.384000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "984197891990097960",
+        "type": 0,
+        "content": "Lost my taste and smell for 3 months from it last year, still not back 100%",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "223929280470581250",
+            "username": "PsychoHobo",
+            "avatar": "7cf6803d3ccef0cadac387819142c69d",
+            "avatar_decoration": null,
+            "discriminator": "8651",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:51:02.963000+00:00",
+        "edited_timestamp": "2022-06-08T20:51:24.362000+00:00",
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984197658874875974",
+        "type": 0,
+        "content": "It killed my friend, she was my first lab partner in nursing school. And a coworker at my hospital. One of the main catalysts as to why I quit my job in December",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:50:07.384000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984197553069387807",
+        "type": 0,
+        "content": "My girlfriend had it for nine days. Got it from me. We were miserable",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:49:42.158000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984197447431643197",
+        "type": 0,
+        "content": "Day 1-12\u2026straight hell",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:49:16.972000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984197412639883335",
+        "type": 0,
+        "content": "",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [
+            {
+                "id": "984197412010741840",
+                "filename": "1E6216A6-92DB-4398-8B21-147EF0219F75.png",
+                "size": 419682,
+                "url": "https://cdn.discordapp.com/attachments/697135489484062762/984197412010741840/1E6216A6-92DB-4398-8B21-147EF0219F75.png",
+                "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/984197412010741840/1E6216A6-92DB-4398-8B21-147EF0219F75.png",
+                "width": 1170,
+                "height": 2532,
+                "content_type": "image/png"
+            }
+        ],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:49:08.677000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984197335624069130",
+        "type": 19,
+        "content": "",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [
+            {
+                "id": "984197334751641712",
+                "filename": "IMG_0704.png",
+                "size": 474648,
+                "url": "https://cdn.discordapp.com/attachments/697135489484062762/984197334751641712/IMG_0704.png",
+                "proxy_url": "https://media.discordapp.net/attachments/697135489484062762/984197334751641712/IMG_0704.png",
+                "width": 1170,
+                "height": 2532,
+                "content_type": "image/png"
+            }
+        ],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:48:50.315000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984197228639944734"
+        },
+        "referenced_message": {
+            "id": "984197228639944734",
+            "type": 0,
+            "content": "Kept entire case study on myself",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:48:24.808000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "984197264639688794",
+        "type": 19,
+        "content": "Same. Absolutely nothing alike. Illness or vaccine.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "815000460095782933",
+            "username": "AMRAP",
+            "avatar": "15a0636e485da5807a276d7b70701b7c",
+            "avatar_decoration": null,
+            "discriminator": "3660",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "851234092962807829",
+                "username": "Swing_Trader",
+                "avatar": "37456ae20011baa00c6144c3bda8be6e",
+                "avatar_decoration": null,
+                "discriminator": "5063",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:48:33.391000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984197085647740948"
+        },
+        "referenced_message": {
+            "id": "984197085647740948",
+            "type": 19,
+            "content": "I have had both and can state with surety that they\u2019re nothing alike.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "851234092962807829",
+                "username": "Swing_Trader",
+                "avatar": "37456ae20011baa00c6144c3bda8be6e",
+                "avatar_decoration": null,
+                "discriminator": "5063",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "815000460095782933",
+                    "username": "AMRAP",
+                    "avatar": "15a0636e485da5807a276d7b70701b7c",
+                    "avatar_decoration": null,
+                    "discriminator": "3660",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:47:50.716000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984196621850017902"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "984197228639944734",
+        "type": 0,
+        "content": "Kept entire case study on myself",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:48:24.808000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984197223220903987",
+        "type": 19,
+        "content": "Hello. Thank you.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "223929280470581250",
+            "username": "PsychoHobo",
+            "avatar": "7cf6803d3ccef0cadac387819142c69d",
+            "avatar_decoration": null,
+            "discriminator": "8651",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "770004359735279629",
+                "username": "Ronald_Breakout_Breakdown",
+                "avatar": "e880f9229b17d6e248d6f93430dfb7b2",
+                "avatar_decoration": null,
+                "discriminator": "2749",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:48:23.516000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984197144246366269"
+        },
+        "referenced_message": {
+            "id": "984197144246366269",
+            "type": 0,
+            "content": "Hello. You have news from AUST. It is moving.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "770004359735279629",
+                "username": "Ronald_Breakout_Breakdown",
+                "avatar": "e880f9229b17d6e248d6f93430dfb7b2",
+                "avatar_decoration": null,
+                "discriminator": "2749",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:48:04.687000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "984197178207658074",
+        "type": 19,
+        "content": "Yes, I had Covid it before the vaccines were a thing. 12 straight days of illness. It was hell",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "851234092962807829",
+                "username": "Swing_Trader",
+                "avatar": "37456ae20011baa00c6144c3bda8be6e",
+                "avatar_decoration": null,
+                "discriminator": "5063",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:48:12.784000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984197085647740948"
+        },
+        "referenced_message": {
+            "id": "984197085647740948",
+            "type": 19,
+            "content": "I have had both and can state with surety that they\u2019re nothing alike.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "851234092962807829",
+                "username": "Swing_Trader",
+                "avatar": "37456ae20011baa00c6144c3bda8be6e",
+                "avatar_decoration": null,
+                "discriminator": "5063",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "815000460095782933",
+                    "username": "AMRAP",
+                    "avatar": "15a0636e485da5807a276d7b70701b7c",
+                    "avatar_decoration": null,
+                    "discriminator": "3660",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:47:50.716000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984196621850017902"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "984197144246366269",
+        "type": 0,
+        "content": "Hello. You have news from AUST. It is moving.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "770004359735279629",
+            "username": "Ronald_Breakout_Breakdown",
+            "avatar": "e880f9229b17d6e248d6f93430dfb7b2",
+            "avatar_decoration": null,
+            "discriminator": "2749",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:48:04.687000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "AUST"
+        ]
+    },
+    {
+        "id": "984197085647740948",
+        "type": 19,
+        "content": "I have had both and can state with surety that they\u2019re nothing alike.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "851234092962807829",
+            "username": "Swing_Trader",
+            "avatar": "37456ae20011baa00c6144c3bda8be6e",
+            "avatar_decoration": null,
+            "discriminator": "5063",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "815000460095782933",
+                "username": "AMRAP",
+                "avatar": "15a0636e485da5807a276d7b70701b7c",
+                "avatar_decoration": null,
+                "discriminator": "3660",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:47:50.716000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984196621850017902"
+        },
+        "referenced_message": {
+            "id": "984196621850017902",
+            "type": 19,
+            "content": "That\u2019s not what he said though. He claimed COVID and the flu were equivalent.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "815000460095782933",
+                "username": "AMRAP",
+                "avatar": "15a0636e485da5807a276d7b70701b7c",
+                "avatar_decoration": null,
+                "discriminator": "3660",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "723583838839767070",
+                    "username": "EveryOtherDayTrader",
+                    "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                    "avatar_decoration": null,
+                    "discriminator": "7125",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:46:00.138000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984196486743089222"
+            }
+        },
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udcaf"
+                },
+                "count": 2,
                 "me": false
             }
         ],
         "tickers": []
     },
     {
-        "id": "979771257883095110",
+        "id": "984197063292112956",
         "type": 0,
-        "content": "$OTRK on watch some large orders exchanging",
+        "content": "You know it\u2019s called using your brain and being a NURSE",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:47:45.386000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "NURSE"
+        ]
+    },
+    {
+        "id": "984197019172212737",
+        "type": 0,
+        "content": "And my assumption was based on his previous message, talking about all the vaccines still needed",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:47:34.867000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984196939090386985",
+        "type": 19,
+        "content": "It\u2019s my assumption as to what he meant, and you assumed as well",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "815000460095782933",
+                "username": "AMRAP",
+                "avatar": "15a0636e485da5807a276d7b70701b7c",
+                "avatar_decoration": null,
+                "discriminator": "3660",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:47:15.774000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984196621850017902"
+        },
+        "referenced_message": {
+            "id": "984196621850017902",
+            "type": 19,
+            "content": "That\u2019s not what he said though. He claimed COVID and the flu were equivalent.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "815000460095782933",
+                "username": "AMRAP",
+                "avatar": "15a0636e485da5807a276d7b70701b7c",
+                "avatar_decoration": null,
+                "discriminator": "3660",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "723583838839767070",
+                    "username": "EveryOtherDayTrader",
+                    "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                    "avatar_decoration": null,
+                    "discriminator": "7125",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:46:00.138000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984196486743089222"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "984196801492045854",
+        "type": 0,
+        "content": "It\u2019s scary as fuck, that\u2019s why a lot of young people are developing clots and strokes lately",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:46:42.968000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984196736715206706",
+        "type": 0,
+        "content": "I have never in my life seen so many clotting factor numbers so jacked up with an illness. Covid screws everything up with blood",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:46:27.524000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984196630616088616",
+        "type": 0,
+        "content": "But correct. Flu and Covid are way different, biggest difference is the clotting factor caused by Covid.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:46:02.228000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984196621850017902",
+        "type": 19,
+        "content": "That\u2019s not what he said though. He claimed COVID and the flu were equivalent.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "815000460095782933",
+            "username": "AMRAP",
+            "avatar": "15a0636e485da5807a276d7b70701b7c",
+            "avatar_decoration": null,
+            "discriminator": "3660",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:46:00.138000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984196486743089222"
+        },
+        "referenced_message": {
+            "id": "984196486743089222",
+            "type": 19,
+            "content": "You guys, he meant it in the terms of the vaccine. Meaning, just like the flu, with Covid we will be suggested to take annual booster shots",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "468147066951172106",
+                    "username": "JPShoemaker46",
+                    "avatar": "7ef4119b29e7228fe563574023f92cc5",
+                    "avatar_decoration": null,
+                    "discriminator": "9226",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:45:27.926000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984196207440187412"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "984196612622520371",
+        "type": 19,
+        "content": "Don\u2019t know about Cutler but rumor is Stan guy blew up his account because he can\u2019t trade without pumping followers. Looks like he is on Twitter once in awhile but I don\u2019t think anyone follows him except those paid for accounts.",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "851234092962807829",
+            "username": "Swing_Trader",
+            "avatar": "37456ae20011baa00c6144c3bda8be6e",
+            "avatar_decoration": null,
+            "discriminator": "5063",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:45:57.938000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984195953667997786"
+        },
+        "referenced_message": {
+            "id": "984195953667997786",
+            "type": 0,
+            "content": "Whatever happened to Alex Cutler and Stan the man on twitter\u2026I miss those morons",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:43:20.831000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\u270a\ud83c\udffc"
+                },
+                "count": 1,
+                "me": false
+            }
+        ],
+        "tickers": []
+    },
+    {
+        "id": "984196593001586781",
+        "type": 19,
+        "content": "If thats the case then I agree with him",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "468147066951172106",
+            "username": "JPShoemaker46",
+            "avatar": "7ef4119b29e7228fe563574023f92cc5",
+            "avatar_decoration": null,
+            "discriminator": "9226",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:45:53.260000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984196486743089222"
+        },
+        "referenced_message": {
+            "id": "984196486743089222",
+            "type": 19,
+            "content": "You guys, he meant it in the terms of the vaccine. Meaning, just like the flu, with Covid we will be suggested to take annual booster shots",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                "avatar_decoration": null,
+                "discriminator": "7125",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "468147066951172106",
+                    "username": "JPShoemaker46",
+                    "avatar": "7ef4119b29e7228fe563574023f92cc5",
+                    "avatar_decoration": null,
+                    "discriminator": "9226",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:45:27.926000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984196207440187412"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "984196486743089222",
+        "type": 19,
+        "content": "You guys, he meant it in the terms of the vaccine. Meaning, just like the flu, with Covid we will be suggested to take annual booster shots",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "468147066951172106",
+                "username": "JPShoemaker46",
+                "avatar": "7ef4119b29e7228fe563574023f92cc5",
+                "avatar_decoration": null,
+                "discriminator": "9226",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:45:27.926000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984196207440187412"
+        },
+        "referenced_message": {
+            "id": "984196207440187412",
+            "type": 19,
+            "content": "No they are not coming from a future medical doctor",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "468147066951172106",
+                "username": "JPShoemaker46",
+                "avatar": "7ef4119b29e7228fe563574023f92cc5",
+                "avatar_decoration": null,
+                "discriminator": "9226",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "750457788739747931",
+                    "username": "DoctorStocker",
+                    "avatar": "7939fc878053f1f3bfcb372c60b0e77c",
+                    "avatar_decoration": null,
+                    "discriminator": "3718",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:44:21.335000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984195256457232404"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "984196358720339978",
+        "type": 19,
+        "content": "Yes they are, coming from a future head of the cdc",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "223929280470581250",
+            "username": "PsychoHobo",
+            "avatar": "7cf6803d3ccef0cadac387819142c69d",
+            "avatar_decoration": null,
+            "discriminator": "8651",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "468147066951172106",
+                "username": "JPShoemaker46",
+                "avatar": "7ef4119b29e7228fe563574023f92cc5",
+                "avatar_decoration": null,
+                "discriminator": "9226",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:44:57.403000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984196207440187412"
+        },
+        "referenced_message": {
+            "id": "984196207440187412",
+            "type": 19,
+            "content": "No they are not coming from a future medical doctor",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "468147066951172106",
+                "username": "JPShoemaker46",
+                "avatar": "7ef4119b29e7228fe563574023f92cc5",
+                "avatar_decoration": null,
+                "discriminator": "9226",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "750457788739747931",
+                    "username": "DoctorStocker",
+                    "avatar": "7939fc878053f1f3bfcb372c60b0e77c",
+                    "avatar_decoration": null,
+                    "discriminator": "3718",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:44:21.335000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984195256457232404"
+            }
+        },
+        "reactions": [
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\ude02"
+                },
+                "count": 3,
+                "me": false
+            }
+        ],
+        "tickers": []
+    },
+    {
+        "id": "984196291221397554",
+        "type": 19,
+        "content": "Thank you!",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "815000460095782933",
+            "username": "AMRAP",
+            "avatar": "15a0636e485da5807a276d7b70701b7c",
+            "avatar_decoration": null,
+            "discriminator": "3660",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "468147066951172106",
+                "username": "JPShoemaker46",
+                "avatar": "7ef4119b29e7228fe563574023f92cc5",
+                "avatar_decoration": null,
+                "discriminator": "9226",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:44:41.310000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984196207440187412"
+        },
+        "referenced_message": {
+            "id": "984196207440187412",
+            "type": 19,
+            "content": "No they are not coming from a future medical doctor",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "468147066951172106",
+                "username": "JPShoemaker46",
+                "avatar": "7ef4119b29e7228fe563574023f92cc5",
+                "avatar_decoration": null,
+                "discriminator": "9226",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "750457788739747931",
+                    "username": "DoctorStocker",
+                    "avatar": "7939fc878053f1f3bfcb372c60b0e77c",
+                    "avatar_decoration": null,
+                    "discriminator": "3718",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:44:21.335000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984195256457232404"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "984196268844793926",
+        "type": 0,
+        "content": "Any decent podcasts i could get into?",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "393020308447166464",
+            "username": "Jill biden",
+            "avatar": "c60d938a372ee0cb30feb9e6e50ee711",
+            "avatar_decoration": null,
+            "discriminator": "7367",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:44:35.975000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984196207440187412",
+        "type": 19,
+        "content": "No they are not coming from a future medical doctor",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "468147066951172106",
+            "username": "JPShoemaker46",
+            "avatar": "7ef4119b29e7228fe563574023f92cc5",
+            "avatar_decoration": null,
+            "discriminator": "9226",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "750457788739747931",
+                "username": "DoctorStocker",
+                "avatar": "7939fc878053f1f3bfcb372c60b0e77c",
+                "avatar_decoration": null,
+                "discriminator": "3718",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:44:21.335000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984195256457232404"
+        },
+        "referenced_message": {
+            "id": "984195256457232404",
+            "type": 19,
+            "content": "Im saying they\u2019re the equivalent",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "750457788739747931",
+                "username": "DoctorStocker",
+                "avatar": "7939fc878053f1f3bfcb372c60b0e77c",
+                "avatar_decoration": null,
+                "discriminator": "3718",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "815000460095782933",
+                    "username": "AMRAP",
+                    "avatar": "15a0636e485da5807a276d7b70701b7c",
+                    "avatar_decoration": null,
+                    "discriminator": "3660",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:40:34.603000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984195181341450270"
+            }
+        },
+        "tickers": []
+    },
+    {
+        "id": "984196162678571058",
+        "type": 19,
+        "content": "But old trends aren\u2019t always repeating in this market. Which is why I say be careful tomorrow with such low volume and CPI Friday",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "797160602162036756",
+                "username": "Tradeology Analytics",
+                "avatar": "3e1ef861fc9b30955d03de017ace598d",
+                "avatar_decoration": null,
+                "discriminator": "5895",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:44:10.663000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984195954309758986"
+        },
+        "referenced_message": {
+            "id": "984195954309758986",
+            "type": 19,
+            "content": "Seems to me patents being granted usually runs multi day where applied for patent intraday. Perhaps I am overlooking something.",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "797160602162036756",
+                "username": "Tradeology Analytics",
+                "avatar": "3e1ef861fc9b30955d03de017ace598d",
+                "avatar_decoration": null,
+                "discriminator": "5895",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [
+                {
+                    "id": "723583838839767070",
+                    "username": "EveryOtherDayTrader",
+                    "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+                    "avatar_decoration": null,
+                    "discriminator": "7125",
+                    "public_flags": 0
+                }
+            ],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:43:20.984000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": [],
+            "message_reference": {
+                "channel_id": "697135489484062762",
+                "guild_id": "428232997737594901",
+                "message_id": "984195043298533426"
+            }
+        },
+        "tickers": [
+            "CPI"
+        ]
+    },
+    {
+        "id": "984196131527475311",
+        "type": 19,
+        "content": "Definitely been out a while then. There\u2019s no more mods",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "906999003399483433",
+            "username": "issk0ji",
+            "avatar": "157e517cdbf371a47aaead44675714a3",
+            "avatar_decoration": null,
+            "discriminator": "5941",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [
+            {
+                "id": "809520615089635389",
+                "username": "streambot",
+                "avatar": "993ce0b9cee031b16da64d556df65685",
+                "avatar_decoration": null,
+                "discriminator": "9623",
+                "public_flags": 0
+            }
+        ],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:44:03.236000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "message_reference": {
+            "channel_id": "697135489484062762",
+            "guild_id": "428232997737594901",
+            "message_id": "984195816891777074"
+        },
+        "referenced_message": {
+            "id": "984195816891777074",
+            "type": 0,
+            "content": "btw can I get mod?",
+            "channel_id": "697135489484062762",
+            "author": {
+                "id": "809520615089635389",
+                "username": "streambot",
+                "avatar": "993ce0b9cee031b16da64d556df65685",
+                "avatar_decoration": null,
+                "discriminator": "9623",
+                "public_flags": 0
+            },
+            "attachments": [],
+            "embeds": [],
+            "mentions": [],
+            "mention_roles": [],
+            "pinned": false,
+            "mention_everyone": false,
+            "tts": false,
+            "timestamp": "2022-06-08T20:42:48.221000+00:00",
+            "edited_timestamp": null,
+            "flags": 0,
+            "components": []
+        },
+        "tickers": []
+    },
+    {
+        "id": "984196083301359686",
+        "type": 0,
+        "content": "Some people just don\u2019t know (or care) what the reputation is",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "908409281957752952",
+            "username": "daytrader18",
+            "avatar": "6542bef63f2f8a3241a32b062e35a266",
+            "avatar_decoration": null,
+            "discriminator": "5454",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:43:51.738000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": []
+    },
+    {
+        "id": "984195954309758986",
+        "type": 19,
+        "content": "Seems to me patents being granted usually runs multi day where applied for patent intraday. Perhaps I am overlooking something.",
         "channel_id": "697135489484062762",
         "author": {
             "id": "797160602162036756",
@@ -2336,41 +2517,13 @@
         },
         "attachments": [],
         "embeds": [],
-        "mentions": [],
-        "mention_roles": [],
-        "pinned": false,
-        "mention_everyone": false,
-        "tts": false,
-        "timestamp": "2022-05-27T15:41:11.149000+00:00",
-        "edited_timestamp": null,
-        "flags": 0,
-        "components": [],
-        "tickers": [
-            "OTRK"
-        ]
-    },
-    {
-        "id": "979771210785239080",
-        "type": 19,
-        "content": "You got the inside information ehh?",
-        "channel_id": "697135489484062762",
-        "author": {
-            "id": "793215968791756810",
-            "username": "Batman",
-            "avatar": "2e9267abd67bc564bf0d519c2fdd4be2",
-            "avatar_decoration": null,
-            "discriminator": "8305",
-            "public_flags": 0
-        },
-        "attachments": [],
-        "embeds": [],
         "mentions": [
             {
-                "id": "141550956516081664",
-                "username": "Mikey8247",
-                "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
                 "avatar_decoration": null,
-                "discriminator": "4052",
+                "discriminator": "7125",
                 "public_flags": 0
             }
         ],
@@ -2378,37 +2531,37 @@
         "pinned": false,
         "mention_everyone": false,
         "tts": false,
-        "timestamp": "2022-05-27T15:40:59.920000+00:00",
+        "timestamp": "2022-06-08T20:43:20.984000+00:00",
         "edited_timestamp": null,
         "flags": 0,
         "components": [],
         "message_reference": {
             "channel_id": "697135489484062762",
             "guild_id": "428232997737594901",
-            "message_id": "979770776922247218"
+            "message_id": "984195043298533426"
         },
         "referenced_message": {
-            "id": "979770776922247218",
+            "id": "984195043298533426",
             "type": 19,
-            "content": "started part time in 1998 at 50 years old.....went full time in 2003......detoured to otc/pinks/IR work for a couple of years...finally gave it all up when SEC started snooping around and busted many of my trading friends........Bill Panetta, Nate Michaud, Pawel Dynkowski.......cleared by SEC.......but not so lucky with IRS.........oops........",
+            "content": "Same. People are hungry for another AERC, but watch out for a big flush is all. Seems like not so great news for massive continuation.",
             "channel_id": "697135489484062762",
             "author": {
-                "id": "141550956516081664",
-                "username": "Mikey8247",
-                "avatar": "e5c9f5d2da420d4c1129886e1acf8517",
+                "id": "723583838839767070",
+                "username": "EveryOtherDayTrader",
+                "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
                 "avatar_decoration": null,
-                "discriminator": "4052",
+                "discriminator": "7125",
                 "public_flags": 0
             },
             "attachments": [],
             "embeds": [],
             "mentions": [
                 {
-                    "id": "908409281957752952",
-                    "username": "daytrader18",
-                    "avatar": "6542bef63f2f8a3241a32b062e35a266",
+                    "id": "804362956090769409",
+                    "username": "MattP",
+                    "avatar": "8e0b27c5fde4e18d43d83b5a45e9effc",
                     "avatar_decoration": null,
-                    "discriminator": "5454",
+                    "discriminator": "4433",
                     "public_flags": 0
                 }
             ],
@@ -2416,16 +2569,126 @@
             "pinned": false,
             "mention_everyone": false,
             "tts": false,
-            "timestamp": "2022-05-27T15:39:16.479000+00:00",
+            "timestamp": "2022-06-08T20:39:43.782000+00:00",
             "edited_timestamp": null,
             "flags": 0,
             "components": [],
             "message_reference": {
                 "channel_id": "697135489484062762",
                 "guild_id": "428232997737594901",
-                "message_id": "979769749749780510"
+                "message_id": "984194857285320825"
             }
         },
         "tickers": []
+    },
+    {
+        "id": "984195953667997786",
+        "type": 0,
+        "content": "Whatever happened to Alex Cutler and Stan the man on twitter\u2026I miss those morons",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "723583838839767070",
+            "username": "EveryOtherDayTrader",
+            "avatar": "dfbfb0ccc2e73866c61809a216a887ca",
+            "avatar_decoration": null,
+            "discriminator": "7125",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:43:20.831000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "reactions": [
+            {
+                "emoji": {
+                    "id": "844708552614215691",
+                    "name": "goat"
+                },
+                "count": 1,
+                "me": false
+            },
+            {
+                "emoji": {
+                    "id": null,
+                    "name": "\ud83d\udd73\ufe0f"
+                },
+                "count": 1,
+                "me": false
+            }
+        ],
+        "tickers": []
+    },
+    {
+        "id": "984195900224208916",
+        "type": 0,
+        "content": "This discord of full of same hateful assholes. I\u2019m no Genius NURSE like some in here but I did stay in a holiday inn last night. $900 profit day for me! Hope everyone else had good days! \u2764\ufe0f",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "815000460095782933",
+            "username": "AMRAP",
+            "avatar": "15a0636e485da5807a276d7b70701b7c",
+            "avatar_decoration": null,
+            "discriminator": "3660",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:43:08.089000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "tickers": [
+            "NURSE"
+        ]
+    },
+    {
+        "id": "984195898886209537",
+        "type": 0,
+        "content": "Also HLBZ float is 8M with 80% held by insider and CEO just bought a bunch of shares (more insider buying)",
+        "channel_id": "697135489484062762",
+        "author": {
+            "id": "729829130589438003",
+            "username": "Mike Wags",
+            "avatar": "9426ebacba2b55896960905fb484e606",
+            "avatar_decoration": null,
+            "discriminator": "7900",
+            "public_flags": 0
+        },
+        "attachments": [],
+        "embeds": [],
+        "mentions": [],
+        "mention_roles": [],
+        "pinned": false,
+        "mention_everyone": false,
+        "tts": false,
+        "timestamp": "2022-06-08T20:43:07.770000+00:00",
+        "edited_timestamp": null,
+        "flags": 0,
+        "components": [],
+        "reactions": [
+            {
+                "emoji": {
+                    "id": "685107895121084424",
+                    "name": "this"
+                },
+                "count": 1,
+                "me": false
+            }
+        ],
+        "tickers": [
+            "HLBZ"
+        ]
     }
 ]

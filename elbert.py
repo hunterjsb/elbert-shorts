@@ -19,7 +19,7 @@ with open('resource/secrets.json', 'r') as s_f:
 
 
 class Elbert:
-    def __init__(self, user_credentials: dict or None):
+    def __init__(self, user_credentials: dict or None, ignore_common_phrases=True):
         # Use the `install()` method to set `executable_path` in a new `Service` instance:
         if user_credentials:  # pass None to `user_credentials` if you don't want to use the WebDriver
             service = Service(executable_path=ChromeDriverManager().install())
@@ -35,9 +35,11 @@ class Elbert:
 
         self.logged_in = False
         self.msg_cache = []
-
+        # phrases to ignore
         self.common_phrases = ['IPO', 'ITM', 'OTM', 'BETA', 'GAMMA', 'THETA', 'EPS', 'AM', 'PM', 'USD', 'AH', 'HALTED'
-                               'EST', 'UK', 'RIP', 'HTB', 'IMO', 'OTC', 'FDA', 'FED', 'EOD', 'DD']
+                               'EST', 'UK', 'RIP', 'HTB', 'IMO', 'OTC', 'FDA', 'FED', 'EOD', 'DD', 'GAS', 'HUGE',
+                               'ATLAS', 'ALERT', 'DAY', 'CDC', 'FREE', 'GIF', 'TON', 'NURSE', 'CPI'] \
+            if ignore_common_phrases else []
 
     @staticmethod
     def _build_options():
@@ -65,24 +67,16 @@ class Elbert:
         password_input.send_keys(self.password)
 
         # click login
-        self.driver.find_element(By.XPATH, '//*[@id="app-mount"]/div[2]/div/div/div/div/form/div/div/div[1]/div[2]/'
-                                           'button[2]/div').click()
+        self.driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div/div[1]/div/div/div/div/form/div/div/div[1]/div'
+                                           '[2]/button[2]').click()
         self.logged_in = True
 
     def join_atlas(self):
         """join atlas trading text channel, trading floor 1"""
-        nsfw_continue_button = '//*[@id="app-mount"]/div[2]/div/div[2]/div/div/div/div[2]/div[3]/div[2]/div[1]/' \
-                               'div[1]/div/div[4]/button[2]'  # problem child
-
         if not self.logged_in:
             self.login()
         time.sleep(3)  # replace with webdriver EC
         self.driver.get('https://discord.com/channels/428232997737594901/697135489484062762')  # xan nation
-
-        # DEPRECATED CODE - Atlas removed NSFW accept button
-        # WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, nsfw_continue_button)))
-        # time.sleep(1)  # replace with try... except above - click sometimes get interrupted
-        # self.driver.find_element(By.XPATH, nsfw_continue_button).click()
 
     def _get_logs(self):
         """extract http requests from logs"""
@@ -156,7 +150,7 @@ class Elbert:
 if __name__ == "__main__":
 
     # join: atlas trading / trading floor 1
-    elbert = Elbert(credentials)
+    elbert = Elbert(credentials, ignore_common_phrases=False)
 
     # open the messages
     elbert.load_messages()
